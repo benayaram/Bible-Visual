@@ -1,0 +1,382 @@
+[
+  {
+    "from": "joseph",
+    "to": "judah",
+    "type": "contemporary",
+    "title": "Two branches of one family",
+    "evidence": "Genesis 37–39 interleaves Joseph in Egypt and Judah in Canaan. Genesis 38:1 gives a broad temporal connection, not an exact shared date.",
+    "id": "link-1",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "judges",
+    "to": "ruth",
+    "type": "contemporary",
+    "title": "Ruth within the time of the judges",
+    "evidence": "Ruth 1:1 explicitly names the period of the judges. It does not identify which judge was active.",
+    "id": "link-2",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "elijah",
+    "to": "jehoshaphat",
+    "type": "contemporary",
+    "title": "Israel and Judah in Ahab’s time",
+    "evidence": "1 Kings 17–18 locates Elijah under Ahab; 1 Kings 22 shows Jehoshaphat allied with Ahab. These are overlapping reign contexts, not simultaneous scenes.",
+    "id": "link-3",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "samaria",
+    "to": "hezekiah",
+    "type": "contemporary",
+    "title": "A northern fall, a southern reign",
+    "evidence": "2 Kings 18:9–10 synchronizes Samaria’s siege with Hezekiah’s reign; the later Jerusalem crisis is a distinct event.",
+    "id": "link-4",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 18,
+        "start": 9,
+        "end": 12
+      }
+    ],
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "daniel",
+    "to": "ezekiel",
+    "type": "contemporary",
+    "title": "Different witnesses in exile",
+    "evidence": "Daniel 1 and Ezekiel 1 locate their figures within Babylonian deportation settings. The particular visions are not synchronized to the same day.",
+    "id": "link-5",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "jeremiah",
+    "to": "ezekiel",
+    "type": "contemporary",
+    "title": "Jerusalem and the Babylonian exiles",
+    "evidence": "Jeremiah 29 addresses deportees while Ezekiel 1 locates the prophet among exiles. These share a broad setting, not one scene.",
+    "id": "link-6",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "return",
+    "to": "haggai",
+    "type": "contemporary",
+    "title": "Builders and prophetic voices",
+    "evidence": "Ezra 5:1–2 directly connects Haggai and Zechariah with Zerubbabel and Jeshua’s building work.",
+    "id": "link-7",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "creation",
+    "to": "new-earth",
+    "type": "thematic",
+    "title": "From creation to new creation",
+    "evidence": "Genesis 1–2 and Revelation 21–22 share heaven, earth, life, and divine presence imagery. This is a literary and theological connection, not simultaneity.",
+    "id": "link-8",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "garden",
+    "to": "new-earth",
+    "type": "thematic",
+    "title": "The tree and river of life",
+    "evidence": "Compare Genesis 2:9–10 with Revelation 22:1–2. The imagery links beginning and consummation.",
+    "id": "link-9",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "passover",
+    "to": "cross",
+    "type": "thematic",
+    "title": "Passover and Christ",
+    "evidence": "1 Corinthians 5:7 explicitly describes Christ as “our passover.” This is an interpretive connection, not the same historical event.",
+    "id": "link-10",
+    "refs": [
+      {
+        "book": 46,
+        "chapter": 5,
+        "start": 6,
+        "end": 8
+      }
+    ],
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "abraham",
+    "to": "letters",
+    "type": "thematic",
+    "title": "Promise and faith",
+    "evidence": "Romans 4 and Galatians 3 interpret Abraham’s faith and the promise. These letters belong to a much later narrative setting.",
+    "id": "link-11",
+    "refs": [
+      {
+        "book": 45,
+        "chapter": 4,
+        "start": 1,
+        "end": 12
+      },
+      {
+        "book": 48,
+        "chapter": 3,
+        "start": 6,
+        "end": 9
+      }
+    ],
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "sinai",
+    "to": "teaching",
+    "type": "thematic",
+    "title": "Commandments and Jesus’s teaching",
+    "evidence": "Matthew 5:17–48 engages the law and commandments. The sermon and Sinai are distinct settings.",
+    "id": "link-12",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "baptism",
+    "to": "baptism",
+    "type": "same-event",
+    "title": "The baptism: three narratives and a witness",
+    "evidence": "Matthew 3, Mark 1, and Luke 3 narrate the baptism; John 1 gives the Baptist’s witness to the Spirit.",
+    "id": "link-13",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "feeding",
+    "to": "feeding",
+    "type": "same-event",
+    "title": "One feeding, four Gospel accounts",
+    "evidence": "Matthew 14, Mark 6, Luke 9, and John 6 each describe five loaves, two fish, and five thousand men.",
+    "id": "link-14",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "temptation",
+    "to": "temptation",
+    "type": "same-event",
+    "title": "The wilderness testing",
+    "evidence": "Compare Matthew 4, Mark 1, and Luke 4; Matthew and Luke order the temptations differently.",
+    "id": "link-15",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "cross",
+    "to": "cross",
+    "type": "same-event",
+    "title": "Four witnesses to the crucifixion",
+    "evidence": "Compare the Gospel accounts side by side. Differences in time descriptions are preserved.",
+    "id": "link-16",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "resurrection",
+    "to": "resurrection",
+    "type": "same-event",
+    "title": "The empty tomb accounts",
+    "evidence": "The accounts share the empty-tomb setting and differ in detail, selection, and narrative arrangement.",
+    "id": "link-17",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "hezekiah",
+    "to": "hezekiah",
+    "type": "same-event",
+    "title": "Kings and Isaiah: the Assyrian crisis",
+    "evidence": "2 Kings 18–19 and Isaiah 36–37 preserve parallel narratives. The corresponding passage opens below.",
+    "id": "link-18",
+    "refs": [
+      {
+        "book": 23,
+        "chapter": 36,
+        "start": 1,
+        "end": 3
+      },
+      {
+        "book": 23,
+        "chapter": 37,
+        "start": 14,
+        "end": 20
+      }
+    ],
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "paul",
+    "to": "paul",
+    "type": "same-event",
+    "title": "One encounter, three tellings",
+    "evidence": "Acts 9 narrates the event; Acts 22 and 26 recall it within Paul’s later speeches.",
+    "id": "link-19",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "from": "birth",
+    "to": "birth",
+    "type": "same-event",
+    "title": "The birth narratives",
+    "evidence": "Matthew 1–2 and Luke 1–2 describe Jesus’s origins with different emphases. Their details are not forced into an exact harmony.",
+    "id": "link-20",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  },
+  {
+    "id": "link-sauls-death",
+    "from": "saul-death",
+    "to": "saul-death",
+    "type": "same-event",
+    "title": "Saul’s death: Samuel and Chronicles",
+    "evidence": "1 Samuel 31 and 1 Chronicles 10 recount Saul’s death at Gilboa and the actions of the people of Jabesh-gilead. Chronicles adds an editorial explanation in 10:13–14. These are accounts of one episode.",
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    }
+  }
+]

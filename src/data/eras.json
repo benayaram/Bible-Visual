@@ -1,0 +1,101 @@
+[
+  {
+    "id": "beginnings",
+    "title": "In the beginning",
+    "telugu": "సృష్టి ఆరంభం",
+    "books": "Genesis 1–11",
+    "period": "Primeval narrative",
+    "summary": "Creation, human rebellion, the flood, and the nations.",
+    "dateNote": "No universally agreed calendar dates."
+  },
+  {
+    "id": "patriarchs",
+    "title": "Promise & patriarchs",
+    "telugu": "వాగ్దానం · పితరులు",
+    "books": "Genesis 12–50",
+    "period": "Ancestral narratives",
+    "summary": "God’s covenant with Abraham and the journeys of his family.",
+    "dateNote": "Placed before the exodus in the narrative; absolute dates are debated."
+  },
+  {
+    "id": "exodus",
+    "title": "Exodus & covenant",
+    "telugu": "నిర్గమం · నిబంధన",
+    "books": "Exodus–Deuteronomy",
+    "period": "Israel’s deliverance",
+    "summary": "Deliverance from Egypt, Sinai, and the wilderness journey.",
+    "dateNote": "Common proposals place the exodus in the 15th or 13th century BCE; neither is treated here as settled."
+  },
+  {
+    "id": "land",
+    "title": "Life in the land",
+    "telugu": "వాగ్దాన దేశం",
+    "books": "Joshua–Ruth",
+    "period": "Settlement & judges",
+    "summary": "Entry into Canaan and the generations of the judges.",
+    "dateNote": "Narrative order is shown; the judges need not form one uninterrupted national sequence."
+  },
+  {
+    "id": "kingdom",
+    "title": "A united kingdom",
+    "telugu": "ఐక్య రాజ్యం",
+    "books": "1 Samuel–1 Kings 11",
+    "period": "Saul · David · Solomon",
+    "summary": "The rise of the monarchy, Jerusalem, and the temple.",
+    "dateNote": "Common historical reconstructions place these reigns in the 11th–10th centuries BCE; exact years vary."
+  },
+  {
+    "id": "divided",
+    "title": "A kingdom divided",
+    "telugu": "విభజించబడిన రాజ్యం",
+    "books": "1 Kings 12–2 Kings 25",
+    "period": "Israel & Judah",
+    "summary": "Two kingdoms, overlapping reigns, and prophetic voices.",
+    "dateNote": "Kings provides relative regnal synchronisms. Converting them to calendar years requires a chronology model."
+  },
+  {
+    "id": "exile",
+    "title": "Exile & return",
+    "telugu": "చెర · తిరిగి రాక",
+    "books": "Daniel · Ezra · Nehemiah",
+    "period": "Loss, hope & restoration",
+    "summary": "Life under foreign empires and the return to Jerusalem.",
+    "dateNote": "The biblical sequence runs through Babylonian and Persian rule; chapter order is not always event order."
+  },
+  {
+    "id": "wisdom",
+    "title": "Wisdom & worship",
+    "telugu": "జ్ఞానం · ఆరాధన",
+    "books": "Job–Song of Solomon",
+    "period": "Voices across generations",
+    "summary": "Prayer, lament, wisdom, and the search for understanding.",
+    "dateNote": "A thematic collection, not a separate historical period. Job’s setting and the dates of many poems are uncertain."
+  },
+  {
+    "id": "jesus",
+    "title": "The life of Jesus",
+    "telugu": "యేసు క్రీస్తు జీవితం",
+    "books": "Matthew · Mark · Luke · John",
+    "period": "Four Gospel witnesses",
+    "summary": "Birth, ministry, the kingdom of God, death, and resurrection.",
+    "dateNote": "Gospel parallels are compared without assuming that all four books arrange every episode identically."
+  },
+  {
+    "id": "church",
+    "title": "The early church",
+    "telugu": "ఆది సంఘం",
+    "books": "Acts & the letters",
+    "period": "Witness to the nations",
+    "summary": "Pentecost, growing communities, and the spread of the gospel.",
+    "dateNote": "Acts supplies a narrative framework. The dating and placement of individual letters are sometimes disputed."
+  },
+  {
+    "id": "newcreation",
+    "title": "All things made new",
+    "telugu": "నూతన సృష్టి",
+    "books": "Revelation 1–22",
+    "period": "Vision & hope",
+    "summary": "John’s vision, judgment, and the new heaven and new earth.",
+    "dateNote": "Vision order is not an agreed future calendar. Preterist, historicist, futurist, and idealist readings differ."
+  }
+]

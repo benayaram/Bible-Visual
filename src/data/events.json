@@ -1,0 +1,4406 @@
+[
+  {
+    "id": "creation",
+    "era": "beginnings",
+    "title": "Creation of heaven and earth",
+    "telugu": "సృష్టి ఆరంభం",
+    "summary": "God creates, orders, and fills the world; humanity is made in God’s image.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 1,
+        "start": 1,
+        "end": 5
+      },
+      {
+        "book": 1,
+        "chapter": 1,
+        "start": 26,
+        "end": 31
+      },
+      {
+        "book": 1,
+        "chapter": 2,
+        "start": 1,
+        "end": 3
+      }
+    ],
+    "lane": "Origins",
+    "chronology": "Sequence in Genesis; no calendar year assigned.",
+    "order": 0,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "creation-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 1,
+          "start": 1,
+          "end": 5
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "creation-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 1,
+          "start": 26,
+          "end": 31
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "creation-account-3",
+        "ref": {
+          "book": 1,
+          "chapter": 2,
+          "start": 1,
+          "end": 3
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "garden",
+    "era": "beginnings",
+    "title": "Life in the garden",
+    "telugu": "ఏదెను తోట",
+    "summary": "The garden account describes human vocation, relationship, and the command concerning the tree.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 2,
+        "start": 7,
+        "end": 9
+      },
+      {
+        "book": 1,
+        "chapter": 2,
+        "start": 15,
+        "end": 25
+      }
+    ],
+    "lane": "Humanity",
+    "chronology": "Genesis 2 focuses on the human setting; traditions differ on its relationship to Genesis 1.",
+    "order": 1,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "garden-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 2,
+          "start": 7,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "garden-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 2,
+          "start": 15,
+          "end": 25
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "fall",
+    "era": "beginnings",
+    "title": "The human rebellion",
+    "telugu": "మానవ పతనం",
+    "summary": "The man and woman disobey; the narrative follows their estrangement and departure from Eden.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 3,
+        "start": 1,
+        "end": 7
+      },
+      {
+        "book": 1,
+        "chapter": 3,
+        "start": 14,
+        "end": 24
+      }
+    ],
+    "lane": "Humanity",
+    "chronology": "Narrative sequence, not a dated event.",
+    "order": 2,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "fall-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 3,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "fall-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 3,
+          "start": 14,
+          "end": 24
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "cain",
+    "era": "beginnings",
+    "title": "Cain and Abel",
+    "telugu": "కయీను · హేబెలు",
+    "summary": "Conflict between brothers culminates in Abel’s death and Cain’s exile.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 4,
+        "start": 1,
+        "end": 16
+      }
+    ],
+    "lane": "Humanity",
+    "chronology": "Follows the garden narrative.",
+    "order": 3,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "cain-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 4,
+          "start": 1,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "flood",
+    "era": "beginnings",
+    "title": "Noah and the flood",
+    "telugu": "నోవహు · జలప్రళయం",
+    "summary": "Noah builds the ark; the flood is followed by a covenant with living creatures.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 6,
+        "start": 9,
+        "end": 22
+      },
+      {
+        "book": 1,
+        "chapter": 8,
+        "start": 15,
+        "end": 22
+      },
+      {
+        "book": 1,
+        "chapter": 9,
+        "start": 8,
+        "end": 17
+      }
+    ],
+    "lane": "Noah’s family",
+    "chronology": "Genesis gives internal intervals; the absolute date and extent are interpreted differently.",
+    "order": 4,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "flood-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 6,
+          "start": 9,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "flood-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 8,
+          "start": 15,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "flood-account-3",
+        "ref": {
+          "book": 1,
+          "chapter": 9,
+          "start": 8,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "babel",
+    "era": "beginnings",
+    "title": "Babel and the nations",
+    "telugu": "బాబేలు · జనములు",
+    "summary": "The tower narrative describes the confusion of language and the scattering of people.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 11,
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "lane": "The nations",
+    "chronology": "Genesis 10 and 11 present the nations and Babel in different literary frames.",
+    "order": 5,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "babel-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 11,
+          "start": 1,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "abraham",
+    "era": "patriarchs",
+    "title": "The call of Abraham",
+    "telugu": "అబ్రాహాము పిలుపు",
+    "summary": "Abram leaves his homeland in response to a promise of land, descendants, and blessing for all families.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 12,
+        "start": 1,
+        "end": 9
+      },
+      {
+        "book": 1,
+        "chapter": 15,
+        "start": 1,
+        "end": 6
+      },
+      {
+        "book": 1,
+        "chapter": 17,
+        "start": 1,
+        "end": 8
+      }
+    ],
+    "lane": "Abraham’s family",
+    "chronology": "Before Isaac and Jacob in the narrative; no precise BCE date assigned.",
+    "order": 6,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "abraham-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 12,
+          "start": 1,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "abraham-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 15,
+          "start": 1,
+          "end": 6
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "abraham-account-3",
+        "ref": {
+          "book": 1,
+          "chapter": 17,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "lot",
+    "era": "patriarchs",
+    "title": "Abraham and Lot separate",
+    "telugu": "అబ్రాహాము · లోతు",
+    "summary": "Their households take different paths; Lot settles toward Sodom.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 13,
+        "start": 5,
+        "end": 18
+      },
+      {
+        "book": 1,
+        "chapter": 19,
+        "start": 15,
+        "end": 29
+      }
+    ],
+    "lane": "Lot’s family",
+    "chronology": "A family branch within Abraham’s story, not a separately dated era.",
+    "order": 7,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "lot-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 13,
+          "start": 5,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "lot-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 19,
+          "start": 15,
+          "end": 29
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "isaac",
+    "era": "patriarchs",
+    "title": "Isaac, the promised son",
+    "telugu": "ఇస్సాకు",
+    "summary": "Sarah bears Isaac, and the narrative later describes Abraham’s testing.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 21,
+        "start": 1,
+        "end": 7
+      },
+      {
+        "book": 1,
+        "chapter": 22,
+        "start": 1,
+        "end": 18
+      }
+    ],
+    "lane": "Abraham’s family",
+    "chronology": "The birth precedes the testing; Genesis does not state Isaac’s age at the testing.",
+    "order": 8,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "isaac-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 21,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "isaac-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 22,
+          "start": 1,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "jacob",
+    "era": "patriarchs",
+    "title": "Jacob becomes Israel",
+    "telugu": "యాకోబు · ఇశ్రాయేలు",
+    "summary": "Jacob’s flight, return, and encounter at the Jabbok shape the story of Israel’s ancestors.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 28,
+        "start": 10,
+        "end": 22
+      },
+      {
+        "book": 1,
+        "chapter": 32,
+        "start": 22,
+        "end": 32
+      }
+    ],
+    "lane": "Jacob’s family",
+    "chronology": "These episodes are separated by Jacob’s years with Laban.",
+    "order": 9,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "jacob-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 28,
+          "start": 10,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "jacob-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 32,
+          "start": 22,
+          "end": 32
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "joseph",
+    "era": "patriarchs",
+    "title": "Joseph in Egypt",
+    "telugu": "ఐగుప్తులో యోసేపు",
+    "summary": "Sold by his brothers, Joseph eventually administers Egypt’s food supply and receives his family.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 37,
+        "start": 23,
+        "end": 28
+      },
+      {
+        "book": 1,
+        "chapter": 41,
+        "start": 37,
+        "end": 49
+      },
+      {
+        "book": 1,
+        "chapter": 45,
+        "start": 1,
+        "end": 11
+      }
+    ],
+    "lane": "Joseph in Egypt",
+    "chronology": "Joseph’s Egyptian story overlaps his brothers’ life in Canaan.",
+    "order": 10,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "joseph-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 37,
+          "start": 23,
+          "end": 28
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "joseph-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 41,
+          "start": 37,
+          "end": 49
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "joseph-account-3",
+        "ref": {
+          "book": 1,
+          "chapter": 45,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "judah",
+    "era": "patriarchs",
+    "title": "Judah and Tamar",
+    "telugu": "యూదా · తామారు",
+    "summary": "Genesis interrupts Joseph’s story to follow Judah’s family and Tamar’s pursuit of justice.",
+    "refs": [
+      {
+        "book": 1,
+        "chapter": 38,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 1,
+        "chapter": 38,
+        "start": 24,
+        "end": 30
+      }
+    ],
+    "lane": "Judah in Canaan",
+    "chronology": "Genesis 38:1 says “at that time”; exact synchronization with Joseph’s episodes is not given.",
+    "order": 11,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "judah-account-1",
+        "ref": {
+          "book": 1,
+          "chapter": 38,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "judah-account-2",
+        "ref": {
+          "book": 1,
+          "chapter": 38,
+          "start": 24,
+          "end": 30
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "moses",
+    "era": "exodus",
+    "title": "Moses is called",
+    "telugu": "మోషే పిలుపు",
+    "summary": "After Israel’s oppression in Egypt, Moses encounters God at the burning bush and is sent to Pharaoh.",
+    "refs": [
+      {
+        "book": 2,
+        "chapter": 1,
+        "start": 8,
+        "end": 14
+      },
+      {
+        "book": 2,
+        "chapter": 3,
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "The text supplies narrative sequence; absolute dating remains debated.",
+    "order": 12,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "moses-account-1",
+        "ref": {
+          "book": 2,
+          "chapter": 1,
+          "start": 8,
+          "end": 14
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "moses-account-2",
+        "ref": {
+          "book": 2,
+          "chapter": 3,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "passover",
+    "era": "exodus",
+    "title": "Passover and deliverance",
+    "telugu": "పస్కా · విడుదల",
+    "summary": "The Passover instructions and departure from Egypt form Israel’s foundational deliverance narrative.",
+    "refs": [
+      {
+        "book": 2,
+        "chapter": 12,
+        "start": 1,
+        "end": 14
+      },
+      {
+        "book": 2,
+        "chapter": 12,
+        "start": 29,
+        "end": 42
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "Early and late exodus chronologies differ; no one date is imposed.",
+    "order": 13,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "passover-account-1",
+        "ref": {
+          "book": 2,
+          "chapter": 12,
+          "start": 1,
+          "end": 14
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "passover-account-2",
+        "ref": {
+          "book": 2,
+          "chapter": 12,
+          "start": 29,
+          "end": 42
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "sea",
+    "era": "exodus",
+    "title": "Through the sea",
+    "telugu": "సముద్రం దాటుట",
+    "summary": "Israel passes through the sea and celebrates deliverance from the pursuing Egyptian army.",
+    "refs": [
+      {
+        "book": 2,
+        "chapter": 14,
+        "start": 19,
+        "end": 31
+      },
+      {
+        "book": 2,
+        "chapter": 15,
+        "start": 1,
+        "end": 13
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "The crossing follows the departure from Egypt.",
+    "order": 14,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "sea-account-1",
+        "ref": {
+          "book": 2,
+          "chapter": 14,
+          "start": 19,
+          "end": 31
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "sea-account-2",
+        "ref": {
+          "book": 2,
+          "chapter": 15,
+          "start": 1,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "sinai",
+    "era": "exodus",
+    "title": "Covenant at Sinai",
+    "telugu": "సీనాయి నిబంధన",
+    "summary": "Israel receives the covenant and the commandments at Sinai.",
+    "refs": [
+      {
+        "book": 2,
+        "chapter": 19,
+        "start": 1,
+        "end": 8
+      },
+      {
+        "book": 2,
+        "chapter": 20,
+        "start": 1,
+        "end": 17
+      },
+      {
+        "book": 2,
+        "chapter": 24,
+        "start": 3,
+        "end": 8
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "Exodus 19 locates arrival in the third month after leaving Egypt.",
+    "order": 15,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "sinai-account-1",
+        "ref": {
+          "book": 2,
+          "chapter": 19,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "sinai-account-2",
+        "ref": {
+          "book": 2,
+          "chapter": 20,
+          "start": 1,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "sinai-account-3",
+        "ref": {
+          "book": 2,
+          "chapter": 24,
+          "start": 3,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "tabernacle",
+    "era": "exodus",
+    "title": "A dwelling among the people",
+    "telugu": "ప్రత్యక్ష గుడారం",
+    "summary": "The tabernacle is erected and filled with the glory of the LORD.",
+    "refs": [
+      {
+        "book": 2,
+        "chapter": 40,
+        "start": 1,
+        "end": 16
+      },
+      {
+        "book": 2,
+        "chapter": 40,
+        "start": 34,
+        "end": 38
+      }
+    ],
+    "lane": "Worship",
+    "chronology": "Exodus 40:17 locates its erection in the second year.",
+    "order": 16,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "tabernacle-account-1",
+        "ref": {
+          "book": 2,
+          "chapter": 40,
+          "start": 1,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "tabernacle-account-2",
+        "ref": {
+          "book": 2,
+          "chapter": 40,
+          "start": 34,
+          "end": 38
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "wilderness",
+    "era": "exodus",
+    "title": "The wilderness generation",
+    "telugu": "అరణ్య ప్రయాణం",
+    "summary": "The spies’ report, Israel’s refusal, and the wilderness years lead toward a new generation.",
+    "refs": [
+      {
+        "book": 4,
+        "chapter": 13,
+        "start": 25,
+        "end": 33
+      },
+      {
+        "book": 4,
+        "chapter": 14,
+        "start": 26,
+        "end": 35
+      },
+      {
+        "book": 5,
+        "chapter": 34,
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "Numbers describes forty years; the timeline card groups several episodes.",
+    "order": 17,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "wilderness-account-1",
+        "ref": {
+          "book": 4,
+          "chapter": 13,
+          "start": 25,
+          "end": 33
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "wilderness-account-2",
+        "ref": {
+          "book": 4,
+          "chapter": 14,
+          "start": 26,
+          "end": 35
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "wilderness-account-3",
+        "ref": {
+          "book": 5,
+          "chapter": 34,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "joshua",
+    "era": "land",
+    "title": "Crossing into Canaan",
+    "telugu": "కనాను ప్రవేశం",
+    "summary": "Under Joshua, Israel crosses the Jordan and renews the covenant in the land.",
+    "refs": [
+      {
+        "book": 6,
+        "chapter": 3,
+        "start": 7,
+        "end": 17
+      },
+      {
+        "book": 6,
+        "chapter": 24,
+        "start": 14,
+        "end": 28
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "Narrative order, without a fixed conquest date.",
+    "order": 18,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "joshua-account-1",
+        "ref": {
+          "book": 6,
+          "chapter": 3,
+          "start": 7,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "joshua-account-2",
+        "ref": {
+          "book": 6,
+          "chapter": 24,
+          "start": 14,
+          "end": 28
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "judges",
+    "era": "land",
+    "title": "The cycle of the judges",
+    "telugu": "న్యాయాధిపతుల కాలం",
+    "summary": "Judges describes recurrent oppression, cries for help, deliverance, and renewed unfaithfulness.",
+    "refs": [
+      {
+        "book": 7,
+        "chapter": 2,
+        "start": 10,
+        "end": 23
+      },
+      {
+        "book": 7,
+        "chapter": 4,
+        "start": 1,
+        "end": 10
+      }
+    ],
+    "lane": "Israel’s tribes",
+    "chronology": "Regional judges may overlap; they are not plotted as an exact national calendar.",
+    "order": 19,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "judges-account-1",
+        "ref": {
+          "book": 7,
+          "chapter": 2,
+          "start": 10,
+          "end": 23
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "judges-account-2",
+        "ref": {
+          "book": 7,
+          "chapter": 4,
+          "start": 1,
+          "end": 10
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "ruth",
+    "era": "land",
+    "title": "Ruth and Naomi",
+    "telugu": "రూతు · నయోమి",
+    "summary": "A family returns from Moab to Bethlehem; Ruth’s story leads into David’s ancestry.",
+    "refs": [
+      {
+        "book": 8,
+        "chapter": 1,
+        "start": 1,
+        "end": 18
+      },
+      {
+        "book": 8,
+        "chapter": 4,
+        "start": 13,
+        "end": 22
+      }
+    ],
+    "lane": "A family in Bethlehem",
+    "chronology": "Ruth 1:1 explicitly places the story in the days of the judges, without naming a particular judge.",
+    "order": 20,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "ruth-account-1",
+        "ref": {
+          "book": 8,
+          "chapter": 1,
+          "start": 1,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "ruth-account-2",
+        "ref": {
+          "book": 8,
+          "chapter": 4,
+          "start": 13,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "samuel",
+    "era": "kingdom",
+    "title": "Samuel and the demand for a king",
+    "telugu": "సమూయేలు",
+    "summary": "Samuel’s ministry bridges the judges and the monarchy; the people ask for a king.",
+    "refs": [
+      {
+        "book": 9,
+        "chapter": 3,
+        "start": 1,
+        "end": 21
+      },
+      {
+        "book": 9,
+        "chapter": 8,
+        "start": 4,
+        "end": 22
+      }
+    ],
+    "lane": "Israel",
+    "chronology": "Samuel’s life overlaps the transition to monarchy.",
+    "order": 21,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "samuel-account-1",
+        "ref": {
+          "book": 9,
+          "chapter": 3,
+          "start": 1,
+          "end": 21
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "samuel-account-2",
+        "ref": {
+          "book": 9,
+          "chapter": 8,
+          "start": 4,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "saul",
+    "era": "kingdom",
+    "title": "Saul becomes king",
+    "telugu": "సౌలు రాజు",
+    "summary": "Saul is anointed and publicly recognized as king over Israel.",
+    "refs": [
+      {
+        "book": 9,
+        "chapter": 10,
+        "start": 1,
+        "end": 8
+      },
+      {
+        "book": 9,
+        "chapter": 11,
+        "start": 12,
+        "end": 15
+      }
+    ],
+    "lane": "United monarchy",
+    "chronology": "No exact reign dates imposed.",
+    "order": 22,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "saul-account-1",
+        "ref": {
+          "book": 9,
+          "chapter": 10,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "saul-account-2",
+        "ref": {
+          "book": 9,
+          "chapter": 11,
+          "start": 12,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "saul-death",
+    "era": "kingdom",
+    "title": "The death of Saul",
+    "telugu": "సౌలు మరణం",
+    "summary": "Saul and his sons die after the battle with the Philistines at Mount Gilboa. Samuel and Chronicles recount the same episode.",
+    "refs": [
+      {
+        "book": 9,
+        "chapter": 31,
+        "start": 1,
+        "end": 13
+      },
+      {
+        "book": 13,
+        "chapter": 10,
+        "start": 1,
+        "end": 14
+      }
+    ],
+    "lane": "United monarchy",
+    "chronology": "The Gilboa battle precedes David’s rule over all Israel. The Samuel and Chronicles passages are parallel accounts; no absolute year is assigned.",
+    "order": 23,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "saul-death-account-1",
+        "ref": {
+          "book": 9,
+          "chapter": 31,
+          "start": 1,
+          "end": 13
+        },
+        "kind": "parallel_account"
+      },
+      {
+        "id": "saul-death-account-2",
+        "ref": {
+          "book": 13,
+          "chapter": 10,
+          "start": 1,
+          "end": 14
+        },
+        "kind": "parallel_account"
+      }
+    ]
+  },
+  {
+    "id": "david",
+    "era": "kingdom",
+    "title": "David and Jerusalem",
+    "telugu": "దావీదు · యెరూషలేము",
+    "summary": "David rules over all Israel, takes Jerusalem, and receives a dynastic promise.",
+    "refs": [
+      {
+        "book": 10,
+        "chapter": 5,
+        "start": 1,
+        "end": 12
+      },
+      {
+        "book": 10,
+        "chapter": 7,
+        "start": 8,
+        "end": 16
+      }
+    ],
+    "lane": "United monarchy",
+    "chronology": "David first rules Judah before ruling all Israel.",
+    "order": 24,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "david-account-1",
+        "ref": {
+          "book": 10,
+          "chapter": 5,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "david-account-2",
+        "ref": {
+          "book": 10,
+          "chapter": 7,
+          "start": 8,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "solomon",
+    "era": "kingdom",
+    "title": "Solomon and the temple",
+    "telugu": "సొలొమోను · దేవాలయం",
+    "summary": "Solomon builds and dedicates the temple in Jerusalem.",
+    "refs": [
+      {
+        "book": 11,
+        "chapter": 6,
+        "start": 1,
+        "end": 14
+      },
+      {
+        "book": 11,
+        "chapter": 8,
+        "start": 22,
+        "end": 30
+      }
+    ],
+    "lane": "United monarchy",
+    "chronology": "1 Kings 6:1 supplies a relative interval from the exodus; its historical use is debated.",
+    "order": 25,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "solomon-account-1",
+        "ref": {
+          "book": 11,
+          "chapter": 6,
+          "start": 1,
+          "end": 14
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "solomon-account-2",
+        "ref": {
+          "book": 11,
+          "chapter": 8,
+          "start": 22,
+          "end": 30
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "split",
+    "era": "divided",
+    "title": "One people, two kingdoms",
+    "telugu": "రెండు రాజ్యాలు",
+    "summary": "After Solomon, Rehoboam and Jeroboam lead the southern and northern kingdoms.",
+    "refs": [
+      {
+        "book": 11,
+        "chapter": 12,
+        "start": 1,
+        "end": 20
+      }
+    ],
+    "lane": "Israel & Judah",
+    "chronology": "The division begins two overlapping royal histories.",
+    "order": 26,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "split-account-1",
+        "ref": {
+          "book": 11,
+          "chapter": 12,
+          "start": 1,
+          "end": 20
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "elijah",
+    "era": "divided",
+    "title": "Elijah in the northern kingdom",
+    "telugu": "ఏలీయా ప్రవక్త",
+    "summary": "Elijah confronts Ahab’s kingdom and calls the people to allegiance to the LORD.",
+    "refs": [
+      {
+        "book": 11,
+        "chapter": 17,
+        "start": 1,
+        "end": 7
+      },
+      {
+        "book": 11,
+        "chapter": 18,
+        "start": 20,
+        "end": 39
+      }
+    ],
+    "lane": "Northern Israel",
+    "chronology": "Set within Ahab’s reign.",
+    "order": 27,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "elijah-account-1",
+        "ref": {
+          "book": 11,
+          "chapter": 17,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "elijah-account-2",
+        "ref": {
+          "book": 11,
+          "chapter": 18,
+          "start": 20,
+          "end": 39
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "jehoshaphat",
+    "era": "divided",
+    "title": "Jehoshaphat in Judah",
+    "telugu": "యెహోషాపాతు",
+    "summary": "Judah’s king joins Ahab in a military alliance despite Micaiah’s warning.",
+    "refs": [
+      {
+        "book": 11,
+        "chapter": 22,
+        "start": 1,
+        "end": 28
+      },
+      {
+        "book": 11,
+        "chapter": 22,
+        "start": 41,
+        "end": 44
+      }
+    ],
+    "lane": "Southern Judah",
+    "chronology": "1 Kings 22 explicitly places Jehoshaphat and Ahab together.",
+    "order": 28,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "jehoshaphat-account-1",
+        "ref": {
+          "book": 11,
+          "chapter": 22,
+          "start": 1,
+          "end": 28
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "jehoshaphat-account-2",
+        "ref": {
+          "book": 11,
+          "chapter": 22,
+          "start": 41,
+          "end": 44
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "elisha",
+    "era": "divided",
+    "title": "Elisha’s prophetic ministry",
+    "telugu": "ఎలీషా ప్రవక్త",
+    "summary": "Elisha succeeds Elijah and ministers during the history of the northern kingdom.",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 2,
+        "start": 1,
+        "end": 15
+      },
+      {
+        "book": 12,
+        "chapter": 5,
+        "start": 1,
+        "end": 15
+      }
+    ],
+    "lane": "Northern Israel",
+    "chronology": "Elijah’s departure precedes Elisha’s independent ministry in the narrative.",
+    "order": 29,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "elisha-account-1",
+        "ref": {
+          "book": 12,
+          "chapter": 2,
+          "start": 1,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "elisha-account-2",
+        "ref": {
+          "book": 12,
+          "chapter": 5,
+          "start": 1,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "amos",
+    "era": "divided",
+    "title": "Prophetic voices: Amos and Hosea",
+    "telugu": "ఆమోసు · హోషేయ",
+    "summary": "Prophets address injustice and covenant unfaithfulness during Israel’s later monarchy.",
+    "refs": [
+      {
+        "book": 30,
+        "chapter": 1,
+        "start": 1,
+        "end": 2
+      },
+      {
+        "book": 30,
+        "chapter": 5,
+        "start": 21,
+        "end": 24
+      },
+      {
+        "book": 28,
+        "chapter": 1,
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "lane": "Northern Israel",
+    "chronology": "Their superscriptions name overlapping royal settings; individual oracles cannot all be synchronized.",
+    "order": 30,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "amos-account-1",
+        "ref": {
+          "book": 30,
+          "chapter": 1,
+          "start": 1,
+          "end": 2
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "amos-account-2",
+        "ref": {
+          "book": 30,
+          "chapter": 5,
+          "start": 21,
+          "end": 24
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "amos-account-3",
+        "ref": {
+          "book": 28,
+          "chapter": 1,
+          "start": 1,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "samaria",
+    "era": "divided",
+    "title": "The fall of Samaria",
+    "telugu": "షోమ్రోను పతనం",
+    "summary": "The Assyrian conquest brings the northern kingdom to an end in the narrative of Kings.",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 17,
+        "start": 1,
+        "end": 18
+      }
+    ],
+    "lane": "Northern Israel",
+    "chronology": "2 Kings 18:9–10 synchronizes the siege with Hezekiah and Hoshea.",
+    "order": 31,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "samaria-account-1",
+        "ref": {
+          "book": 12,
+          "chapter": 17,
+          "start": 1,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "hezekiah",
+    "era": "divided",
+    "title": "Hezekiah and the Assyrian threat",
+    "telugu": "హిజ్కియా",
+    "summary": "Assyria threatens Jerusalem; Hezekiah seeks the LORD and receives Isaiah’s message.",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 18,
+        "start": 13,
+        "end": 16
+      },
+      {
+        "book": 12,
+        "chapter": 19,
+        "start": 14,
+        "end": 19
+      },
+      {
+        "book": 12,
+        "chapter": 19,
+        "start": 32,
+        "end": 37
+      }
+    ],
+    "lane": "Southern Judah",
+    "chronology": "Kings and Isaiah preserve parallel narratives of this crisis.",
+    "order": 32,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "hezekiah-account-1",
+        "ref": {
+          "book": 12,
+          "chapter": 18,
+          "start": 13,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "hezekiah-account-2",
+        "ref": {
+          "book": 12,
+          "chapter": 19,
+          "start": 14,
+          "end": 19
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "hezekiah-account-3",
+        "ref": {
+          "book": 12,
+          "chapter": 19,
+          "start": 32,
+          "end": 37
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "josiah",
+    "era": "divided",
+    "title": "Josiah and the book of the law",
+    "telugu": "యోషీయా",
+    "summary": "The discovery of the law leads to covenant renewal and reform in Judah.",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 22,
+        "start": 8,
+        "end": 13
+      },
+      {
+        "book": 12,
+        "chapter": 23,
+        "start": 1,
+        "end": 3
+      }
+    ],
+    "lane": "Southern Judah",
+    "chronology": "Placed before Judah’s final kings and Jerusalem’s destruction.",
+    "order": 33,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "josiah-account-1",
+        "ref": {
+          "book": 12,
+          "chapter": 22,
+          "start": 8,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "josiah-account-2",
+        "ref": {
+          "book": 12,
+          "chapter": 23,
+          "start": 1,
+          "end": 3
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "jerusalem",
+    "era": "divided",
+    "title": "Jerusalem falls",
+    "telugu": "యెరూషలేము పతనం",
+    "summary": "Babylon besieges Jerusalem, destroys the temple, and deports inhabitants.",
+    "refs": [
+      {
+        "book": 12,
+        "chapter": 25,
+        "start": 1,
+        "end": 21
+      },
+      {
+        "book": 24,
+        "chapter": 39,
+        "start": 1,
+        "end": 10
+      }
+    ],
+    "lane": "Southern Judah",
+    "chronology": "Kings and Jeremiah describe this same fall; calendar conversion is not encoded.",
+    "order": 34,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "jerusalem-account-1",
+        "ref": {
+          "book": 12,
+          "chapter": 25,
+          "start": 1,
+          "end": 21
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "jerusalem-account-2",
+        "ref": {
+          "book": 24,
+          "chapter": 39,
+          "start": 1,
+          "end": 10
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "daniel",
+    "era": "exile",
+    "title": "Faithfulness in Babylon",
+    "telugu": "బబులోనులో దానియేలు",
+    "summary": "Daniel and his companions serve under foreign kings while maintaining their allegiance to God.",
+    "refs": [
+      {
+        "book": 27,
+        "chapter": 1,
+        "start": 1,
+        "end": 21
+      },
+      {
+        "book": 27,
+        "chapter": 6,
+        "start": 10,
+        "end": 23
+      }
+    ],
+    "lane": "Exiles in Babylon",
+    "chronology": "Daniel’s book groups court narratives and visions; chapter order is not entirely chronological.",
+    "order": 35,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "daniel-account-1",
+        "ref": {
+          "book": 27,
+          "chapter": 1,
+          "start": 1,
+          "end": 21
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "daniel-account-2",
+        "ref": {
+          "book": 27,
+          "chapter": 6,
+          "start": 10,
+          "end": 23
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "ezekiel",
+    "era": "exile",
+    "title": "Hope among the exiles",
+    "telugu": "యెహెజ్కేలు దర్శనాలు",
+    "summary": "Ezekiel receives visions among the deportees and speaks of restoration and renewed life.",
+    "refs": [
+      {
+        "book": 26,
+        "chapter": 1,
+        "start": 1,
+        "end": 3
+      },
+      {
+        "book": 26,
+        "chapter": 37,
+        "start": 1,
+        "end": 14
+      }
+    ],
+    "lane": "Exiles in Babylon",
+    "chronology": "Ezekiel dates visions relative to the exile of Jehoiachin.",
+    "order": 36,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "ezekiel-account-1",
+        "ref": {
+          "book": 26,
+          "chapter": 1,
+          "start": 1,
+          "end": 3
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "ezekiel-account-2",
+        "ref": {
+          "book": 26,
+          "chapter": 37,
+          "start": 1,
+          "end": 14
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "jeremiah",
+    "era": "exile",
+    "title": "A letter to the exiles",
+    "telugu": "చెరలో ఉన్నవారికి పత్రిక",
+    "summary": "Jeremiah writes from Jerusalem to those already deported, urging them to seek their city’s welfare.",
+    "refs": [
+      {
+        "book": 24,
+        "chapter": 29,
+        "start": 1,
+        "end": 14
+      }
+    ],
+    "lane": "Judah & the diaspora",
+    "chronology": "The letter explicitly connects Jerusalem and the Babylonian exiles before the final destruction.",
+    "order": 37,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "jeremiah-account-1",
+        "ref": {
+          "book": 24,
+          "chapter": 29,
+          "start": 1,
+          "end": 14
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "return",
+    "era": "exile",
+    "title": "Return and rebuilding",
+    "telugu": "తిరిగి రాక · పునర్నిర్మాణం",
+    "summary": "Cyrus’s decree opens the way for return, and the Jerusalem temple is eventually rebuilt.",
+    "refs": [
+      {
+        "book": 15,
+        "chapter": 1,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 15,
+        "chapter": 6,
+        "start": 14,
+        "end": 22
+      }
+    ],
+    "lane": "Returnees in Judah",
+    "chronology": "Ezra names Cyrus and Darius; the events span more than one reign.",
+    "order": 38,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "return-account-1",
+        "ref": {
+          "book": 15,
+          "chapter": 1,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "return-account-2",
+        "ref": {
+          "book": 15,
+          "chapter": 6,
+          "start": 14,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "haggai",
+    "era": "exile",
+    "title": "Haggai and Zechariah encourage rebuilding",
+    "telugu": "హగ్గయి · జెకర్యా",
+    "summary": "Prophetic encouragement accompanies the renewed work on the temple.",
+    "refs": [
+      {
+        "book": 15,
+        "chapter": 5,
+        "start": 1,
+        "end": 2
+      },
+      {
+        "book": 37,
+        "chapter": 1,
+        "start": 1,
+        "end": 15
+      },
+      {
+        "book": 38,
+        "chapter": 1,
+        "start": 1,
+        "end": 6
+      }
+    ],
+    "lane": "Returnees in Judah",
+    "chronology": "Ezra 5 explicitly names both prophets in the rebuilding setting.",
+    "order": 39,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "haggai-account-1",
+        "ref": {
+          "book": 15,
+          "chapter": 5,
+          "start": 1,
+          "end": 2
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "haggai-account-2",
+        "ref": {
+          "book": 37,
+          "chapter": 1,
+          "start": 1,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "haggai-account-3",
+        "ref": {
+          "book": 38,
+          "chapter": 1,
+          "start": 1,
+          "end": 6
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "esther",
+    "era": "exile",
+    "title": "Esther in Persia",
+    "telugu": "పారసీక దేశంలో ఎస్తేరు",
+    "summary": "Esther and Mordecai act amid a threat to the Jewish communities of the Persian Empire.",
+    "refs": [
+      {
+        "book": 17,
+        "chapter": 4,
+        "start": 1,
+        "end": 17
+      },
+      {
+        "book": 17,
+        "chapter": 9,
+        "start": 20,
+        "end": 28
+      }
+    ],
+    "lane": "Diaspora in Persia",
+    "chronology": "The narrative names Ahasuerus; identification and alignment with Ezra–Nehemiah involve historical reconstruction.",
+    "order": 40,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "esther-account-1",
+        "ref": {
+          "book": 17,
+          "chapter": 4,
+          "start": 1,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "esther-account-2",
+        "ref": {
+          "book": 17,
+          "chapter": 9,
+          "start": 20,
+          "end": 28
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "nehemiah",
+    "era": "exile",
+    "title": "Jerusalem’s walls and renewed covenant",
+    "telugu": "నెహెమ్యా",
+    "summary": "Nehemiah oversees rebuilding the walls, and the community gathers to hear the law.",
+    "refs": [
+      {
+        "book": 16,
+        "chapter": 2,
+        "start": 11,
+        "end": 20
+      },
+      {
+        "book": 16,
+        "chapter": 6,
+        "start": 15,
+        "end": 16
+      },
+      {
+        "book": 16,
+        "chapter": 8,
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "lane": "Returnees in Judah",
+    "chronology": "Nehemiah dates his mission to Artaxerxes; this is later than the temple rebuilding.",
+    "order": 41,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "nehemiah-account-1",
+        "ref": {
+          "book": 16,
+          "chapter": 2,
+          "start": 11,
+          "end": 20
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "nehemiah-account-2",
+        "ref": {
+          "book": 16,
+          "chapter": 6,
+          "start": 15,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "nehemiah-account-3",
+        "ref": {
+          "book": 16,
+          "chapter": 8,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "job",
+    "era": "wisdom",
+    "title": "Job: suffering and understanding",
+    "telugu": "యోబు",
+    "summary": "Job and his companions wrestle with suffering, justice, and the limits of human knowledge.",
+    "refs": [
+      {
+        "book": 18,
+        "chapter": 1,
+        "start": 1,
+        "end": 22
+      },
+      {
+        "book": 18,
+        "chapter": 38,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 18,
+        "chapter": 42,
+        "start": 1,
+        "end": 6
+      }
+    ],
+    "lane": "Wisdom",
+    "chronology": "Job is not assigned to a patriarchal date: the text does not establish one.",
+    "order": 42,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "job-account-1",
+        "ref": {
+          "book": 18,
+          "chapter": 1,
+          "start": 1,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "job-account-2",
+        "ref": {
+          "book": 18,
+          "chapter": 38,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "job-account-3",
+        "ref": {
+          "book": 18,
+          "chapter": 42,
+          "start": 1,
+          "end": 6
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "psalms",
+    "era": "wisdom",
+    "title": "Prayer, praise, and lament",
+    "telugu": "కీర్తనలు",
+    "summary": "The Psalms collect many voices and settings of worship, grief, trust, and hope.",
+    "refs": [
+      {
+        "book": 19,
+        "chapter": 23,
+        "start": 1,
+        "end": 6
+      },
+      {
+        "book": 19,
+        "chapter": 137,
+        "start": 1,
+        "end": 6
+      }
+    ],
+    "lane": "Worship",
+    "chronology": "A collection across different settings, not one event or one date.",
+    "order": 43,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "psalms-account-1",
+        "ref": {
+          "book": 19,
+          "chapter": 23,
+          "start": 1,
+          "end": 6
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "psalms-account-2",
+        "ref": {
+          "book": 19,
+          "chapter": 137,
+          "start": 1,
+          "end": 6
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "proverbs",
+    "era": "wisdom",
+    "title": "Wisdom for everyday life",
+    "telugu": "సామెతలు",
+    "summary": "Wisdom literature explores conduct, love, meaning, and life before God.",
+    "refs": [
+      {
+        "book": 20,
+        "chapter": 1,
+        "start": 1,
+        "end": 7
+      },
+      {
+        "book": 21,
+        "chapter": 3,
+        "start": 1,
+        "end": 8
+      },
+      {
+        "book": 22,
+        "chapter": 8,
+        "start": 6,
+        "end": 7
+      }
+    ],
+    "lane": "Wisdom",
+    "chronology": "Proverbs, Ecclesiastes, and Song of Solomon are distinct works, grouped here by literary theme.",
+    "order": 44,
+    "chronologyMetadata": {
+      "precision": "undated",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "proverbs-account-1",
+        "ref": {
+          "book": 20,
+          "chapter": 1,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "proverbs-account-2",
+        "ref": {
+          "book": 21,
+          "chapter": 3,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "proverbs-account-3",
+        "ref": {
+          "book": 22,
+          "chapter": 8,
+          "start": 6,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "birth",
+    "era": "jesus",
+    "title": "The birth of Jesus",
+    "telugu": "యేసు జననం",
+    "summary": "Matthew and Luke tell distinct accounts surrounding Jesus’s birth.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 1,
+        "start": 18,
+        "end": 25
+      },
+      {
+        "book": 42,
+        "chapter": 2,
+        "start": 1,
+        "end": 20
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "The narratives do not provide an uncontested shared calendar date; their details are not forced into a single sequence.",
+    "order": 45,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "birth-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 1,
+          "start": 18,
+          "end": 25
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "birth-account-2",
+        "ref": {
+          "book": 42,
+          "chapter": 2,
+          "start": 1,
+          "end": 20
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "baptism",
+    "era": "jesus",
+    "title": "Jesus is baptized",
+    "telugu": "యేసు బాప్తిస్మం",
+    "summary": "Jesus comes to John at the Jordan; the Synoptic Gospels describe his baptism.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 3,
+        "start": 13,
+        "end": 17
+      },
+      {
+        "book": 41,
+        "chapter": 1,
+        "start": 9,
+        "end": 11
+      },
+      {
+        "book": 42,
+        "chapter": 3,
+        "start": 21,
+        "end": 22
+      },
+      {
+        "book": 43,
+        "chapter": 1,
+        "start": 29,
+        "end": 34
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "John recounts the Baptist’s testimony to the Spirit, rather than narrating the baptism directly.",
+    "order": 46,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "baptism-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 3,
+          "start": 13,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "baptism-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 1,
+          "start": 9,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "baptism-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 3,
+          "start": 21,
+          "end": 22
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "baptism-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 1,
+          "start": 29,
+          "end": 34
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "temptation",
+    "era": "jesus",
+    "title": "Testing in the wilderness",
+    "telugu": "అరణ్యంలో శోధన",
+    "summary": "Jesus is tested in the wilderness before his public ministry unfolds.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 4,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 41,
+        "chapter": 1,
+        "start": 12,
+        "end": 13
+      },
+      {
+        "book": 42,
+        "chapter": 4,
+        "start": 1,
+        "end": 13
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "Matthew and Luke present the temptations in different orders.",
+    "order": 47,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "temptation-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 4,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "temptation-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 1,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "temptation-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 4,
+          "start": 1,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "teaching",
+    "era": "jesus",
+    "title": "Teaching the way of the kingdom",
+    "telugu": "రాజ్య బోధన",
+    "summary": "Jesus teaches on blessing, prayer, love, and life in the kingdom of God.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 5,
+        "start": 1,
+        "end": 12
+      },
+      {
+        "book": 40,
+        "chapter": 6,
+        "start": 9,
+        "end": 13
+      },
+      {
+        "book": 42,
+        "chapter": 6,
+        "start": 20,
+        "end": 36
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "Matthew’s sermon on the mount and Luke’s sermon on a level place share material; identity of the occasion is debated.",
+    "order": 48,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "teaching-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 5,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "teaching-account-2",
+        "ref": {
+          "book": 40,
+          "chapter": 6,
+          "start": 9,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "teaching-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 6,
+          "start": 20,
+          "end": 36
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "feeding",
+    "era": "jesus",
+    "title": "Feeding the five thousand",
+    "telugu": "ఐదువేల మందికి ఆహారం",
+    "summary": "All four Gospels recount Jesus feeding a crowd with five loaves and two fish.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 14,
+        "start": 13,
+        "end": 21
+      },
+      {
+        "book": 41,
+        "chapter": 6,
+        "start": 30,
+        "end": 44
+      },
+      {
+        "book": 42,
+        "chapter": 9,
+        "start": 10,
+        "end": 17
+      },
+      {
+        "book": 43,
+        "chapter": 6,
+        "start": 1,
+        "end": 15
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "This is distinguished from the feeding of the four thousand in Matthew 15 and Mark 8.",
+    "order": 49,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "feeding-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 14,
+          "start": 13,
+          "end": 21
+        },
+        "kind": "parallel_account"
+      },
+      {
+        "id": "feeding-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 6,
+          "start": 30,
+          "end": 44
+        },
+        "kind": "parallel_account"
+      },
+      {
+        "id": "feeding-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 9,
+          "start": 10,
+          "end": 17
+        },
+        "kind": "parallel_account"
+      },
+      {
+        "id": "feeding-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 6,
+          "start": 1,
+          "end": 15
+        },
+        "kind": "parallel_account"
+      }
+    ]
+  },
+  {
+    "id": "transfiguration",
+    "era": "jesus",
+    "title": "The transfiguration",
+    "telugu": "రూపాంతరం",
+    "summary": "Peter, James, and John witness Jesus in glory with Moses and Elijah.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 17,
+        "start": 1,
+        "end": 9
+      },
+      {
+        "book": 41,
+        "chapter": 9,
+        "start": 2,
+        "end": 10
+      },
+      {
+        "book": 42,
+        "chapter": 9,
+        "start": 28,
+        "end": 36
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "The accounts use different day-count expressions; no calendar date is assigned.",
+    "order": 50,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "transfiguration-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 17,
+          "start": 1,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "transfiguration-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 9,
+          "start": 2,
+          "end": 10
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "transfiguration-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 9,
+          "start": 28,
+          "end": 36
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "entry",
+    "era": "jesus",
+    "title": "Jesus enters Jerusalem",
+    "telugu": "యెరూషలేము ప్రవేశం",
+    "summary": "Jesus enters Jerusalem amid acclamation, approaching the final conflict of his ministry.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 21,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 41,
+        "chapter": 11,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 42,
+        "chapter": 19,
+        "start": 28,
+        "end": 40
+      },
+      {
+        "book": 43,
+        "chapter": 12,
+        "start": 12,
+        "end": 19
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "The final-week narratives overlap, while details and arrangement differ.",
+    "order": 51,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "entry-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 21,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "entry-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 11,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "entry-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 19,
+          "start": 28,
+          "end": 40
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "entry-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 12,
+          "start": 12,
+          "end": 19
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "supper",
+    "era": "jesus",
+    "title": "The last supper",
+    "telugu": "చివరి భోజనం",
+    "summary": "Jesus shares a final meal with his disciples; the accounts emphasize covenant, service, and remembrance.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 26,
+        "start": 17,
+        "end": 30
+      },
+      {
+        "book": 41,
+        "chapter": 14,
+        "start": 12,
+        "end": 26
+      },
+      {
+        "book": 42,
+        "chapter": 22,
+        "start": 7,
+        "end": 23
+      },
+      {
+        "book": 43,
+        "chapter": 13,
+        "start": 1,
+        "end": 17
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "The relationship between John’s Passover chronology and the Synoptics is disputed.",
+    "order": 52,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "supper-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 26,
+          "start": 17,
+          "end": 30
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "supper-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 14,
+          "start": 12,
+          "end": 26
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "supper-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 22,
+          "start": 7,
+          "end": 23
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "supper-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 13,
+          "start": 1,
+          "end": 17
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "cross",
+    "era": "jesus",
+    "title": "The crucifixion",
+    "telugu": "సిలువ మరణం",
+    "summary": "The four Gospels narrate Jesus’s execution under Pontius Pilate and his burial.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 27,
+        "start": 32,
+        "end": 56
+      },
+      {
+        "book": 41,
+        "chapter": 15,
+        "start": 21,
+        "end": 41
+      },
+      {
+        "book": 42,
+        "chapter": 23,
+        "start": 26,
+        "end": 49
+      },
+      {
+        "book": 43,
+        "chapter": 19,
+        "start": 16,
+        "end": 37
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "The day and hour details are not harmonized into a single precise timestamp.",
+    "order": 53,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "cross-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 27,
+          "start": 32,
+          "end": 56
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "cross-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 15,
+          "start": 21,
+          "end": 41
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "cross-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 23,
+          "start": 26,
+          "end": 49
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "cross-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 19,
+          "start": 16,
+          "end": 37
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "resurrection",
+    "era": "jesus",
+    "title": "The resurrection witnesses",
+    "telugu": "పునరుత్థానం",
+    "summary": "The Gospels report the empty tomb and encounters with the risen Jesus, with distinct selections of witnesses and scenes.",
+    "refs": [
+      {
+        "book": 40,
+        "chapter": 28,
+        "start": 1,
+        "end": 20
+      },
+      {
+        "book": 41,
+        "chapter": 16,
+        "start": 1,
+        "end": 8
+      },
+      {
+        "book": 42,
+        "chapter": 24,
+        "start": 1,
+        "end": 12
+      },
+      {
+        "book": 43,
+        "chapter": 20,
+        "start": 1,
+        "end": 18
+      }
+    ],
+    "lane": "Gospel narratives",
+    "chronology": "Mark 16:9–20 has a significant manuscript-history question. The parallel anchor here ends at verse 8.",
+    "order": 54,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "resurrection-account-1",
+        "ref": {
+          "book": 40,
+          "chapter": 28,
+          "start": 1,
+          "end": 20
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "resurrection-account-2",
+        "ref": {
+          "book": 41,
+          "chapter": 16,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "resurrection-account-3",
+        "ref": {
+          "book": 42,
+          "chapter": 24,
+          "start": 1,
+          "end": 12
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "resurrection-account-4",
+        "ref": {
+          "book": 43,
+          "chapter": 20,
+          "start": 1,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "ascension",
+    "era": "church",
+    "title": "Witness to the ends of the earth",
+    "telugu": "ఆరోహణం · సాక్ష్యం",
+    "summary": "Acts opens with the risen Jesus commissioning his followers and ascending.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 1,
+        "start": 1,
+        "end": 11
+      },
+      {
+        "book": 42,
+        "chapter": 24,
+        "start": 44,
+        "end": 53
+      }
+    ],
+    "lane": "Jerusalem",
+    "chronology": "Acts 1:3 describes forty days of appearances.",
+    "order": 55,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "ascension-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 1,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "ascension-account-2",
+        "ref": {
+          "book": 42,
+          "chapter": 24,
+          "start": 44,
+          "end": 53
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "pentecost",
+    "era": "church",
+    "title": "Pentecost",
+    "telugu": "పెంతెకొస్తు",
+    "summary": "The Spirit comes upon the gathered disciples; Peter speaks and a community forms.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 2,
+        "start": 1,
+        "end": 21
+      },
+      {
+        "book": 44,
+        "chapter": 2,
+        "start": 37,
+        "end": 47
+      }
+    ],
+    "lane": "Jerusalem",
+    "chronology": "Acts places this on the day of Pentecost after the ascension.",
+    "order": 56,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "pentecost-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 2,
+          "start": 1,
+          "end": 21
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "pentecost-account-2",
+        "ref": {
+          "book": 44,
+          "chapter": 2,
+          "start": 37,
+          "end": 47
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "scattering",
+    "era": "church",
+    "title": "Witness beyond Jerusalem",
+    "telugu": "యెరూషలేము దాటి సువార్త",
+    "summary": "After Stephen’s death, scattered believers carry the message into new places.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 7,
+        "start": 54,
+        "end": 60
+      },
+      {
+        "book": 44,
+        "chapter": 8,
+        "start": 1,
+        "end": 8
+      },
+      {
+        "book": 44,
+        "chapter": 8,
+        "start": 26,
+        "end": 40
+      }
+    ],
+    "lane": "Judea & Samaria",
+    "chronology": "Acts follows several people and places during the expanding mission.",
+    "order": 57,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "scattering-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 7,
+          "start": 54,
+          "end": 60
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "scattering-account-2",
+        "ref": {
+          "book": 44,
+          "chapter": 8,
+          "start": 1,
+          "end": 8
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "scattering-account-3",
+        "ref": {
+          "book": 44,
+          "chapter": 8,
+          "start": 26,
+          "end": 40
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "paul",
+    "era": "church",
+    "title": "Saul’s encounter on the road",
+    "telugu": "సౌలు మార్పు",
+    "summary": "Saul encounters Jesus on the way to Damascus and begins proclaiming him.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 9,
+        "start": 1,
+        "end": 22
+      },
+      {
+        "book": 44,
+        "chapter": 22,
+        "start": 6,
+        "end": 16
+      },
+      {
+        "book": 44,
+        "chapter": 26,
+        "start": 12,
+        "end": 18
+      }
+    ],
+    "lane": "Damascus",
+    "chronology": "Acts retells the encounter in later speeches; these are not three different conversions.",
+    "order": 58,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "paul-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 9,
+          "start": 1,
+          "end": 22
+        },
+        "kind": "narrated_event"
+      },
+      {
+        "id": "paul-account-2",
+        "ref": {
+          "book": 44,
+          "chapter": 22,
+          "start": 6,
+          "end": 16
+        },
+        "kind": "retelling"
+      },
+      {
+        "id": "paul-account-3",
+        "ref": {
+          "book": 44,
+          "chapter": 26,
+          "start": 12,
+          "end": 18
+        },
+        "kind": "retelling"
+      }
+    ]
+  },
+  {
+    "id": "cornelius",
+    "era": "church",
+    "title": "Peter and Cornelius",
+    "telugu": "పేతురు · కొర్నేలి",
+    "summary": "Peter enters a Gentile household, and the Spirit comes upon those who hear.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 10,
+        "start": 1,
+        "end": 16
+      },
+      {
+        "book": 44,
+        "chapter": 10,
+        "start": 34,
+        "end": 48
+      }
+    ],
+    "lane": "Caesarea",
+    "chronology": "Acts 10 narrates interlocking visions and a meeting; Acts 11 retells the episode.",
+    "order": 59,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "cornelius-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 10,
+          "start": 1,
+          "end": 16
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "cornelius-account-2",
+        "ref": {
+          "book": 44,
+          "chapter": 10,
+          "start": 34,
+          "end": 48
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "mission",
+    "era": "church",
+    "title": "Journeys and new communities",
+    "telugu": "పౌలు ప్రయాణాలు",
+    "summary": "Paul and his companions travel, teach, and establish communities across the eastern Mediterranean.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 13,
+        "start": 1,
+        "end": 4
+      },
+      {
+        "book": 44,
+        "chapter": 16,
+        "start": 6,
+        "end": 15
+      },
+      {
+        "book": 44,
+        "chapter": 18,
+        "start": 1,
+        "end": 11
+      }
+    ],
+    "lane": "Across the nations",
+    "chronology": "This card groups multiple journeys; letter dates are not inferred automatically from book order.",
+    "order": 60,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "mission-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 13,
+          "start": 1,
+          "end": 4
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "mission-account-2",
+        "ref": {
+          "book": 44,
+          "chapter": 16,
+          "start": 6,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "mission-account-3",
+        "ref": {
+          "book": 44,
+          "chapter": 18,
+          "start": 1,
+          "end": 11
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "council",
+    "era": "church",
+    "title": "The Jerusalem council",
+    "telugu": "యెరూషలేము సభ",
+    "summary": "The church considers the place of Gentile believers and issues a letter.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 15,
+        "start": 1,
+        "end": 29
+      }
+    ],
+    "lane": "Jerusalem",
+    "chronology": "How this visit relates to Galatians 2 is debated; the identification is not imposed.",
+    "order": 61,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "council-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 15,
+          "start": 1,
+          "end": 29
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "rome",
+    "era": "church",
+    "title": "Paul in Rome",
+    "telugu": "రోమాలో పౌలు",
+    "summary": "Acts closes with Paul receiving visitors and teaching while under guard in Rome.",
+    "refs": [
+      {
+        "book": 44,
+        "chapter": 28,
+        "start": 16,
+        "end": 31
+      }
+    ],
+    "lane": "Rome",
+    "chronology": "Acts ends here without narrating Paul’s death.",
+    "order": 62,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "rome-account-1",
+        "ref": {
+          "book": 44,
+          "chapter": 28,
+          "start": 16,
+          "end": 31
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "letters",
+    "era": "church",
+    "title": "Letters to the churches",
+    "telugu": "సంఘాలకు పత్రికలు",
+    "summary": "The letters address faith, conduct, worship, suffering, and hope in particular communities.",
+    "refs": [
+      {
+        "book": 45,
+        "chapter": 12,
+        "start": 1,
+        "end": 18
+      },
+      {
+        "book": 46,
+        "chapter": 13,
+        "start": 1,
+        "end": 13
+      },
+      {
+        "book": 59,
+        "chapter": 2,
+        "start": 14,
+        "end": 26
+      },
+      {
+        "book": 60,
+        "chapter": 1,
+        "start": 3,
+        "end": 9
+      }
+    ],
+    "lane": "Across the nations",
+    "chronology": "A thematic shelf, not a single moment. Authorship and dating of some letters are disputed.",
+    "order": 63,
+    "chronologyMetadata": {
+      "precision": "relative_only",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "letters-account-1",
+        "ref": {
+          "book": 45,
+          "chapter": 12,
+          "start": 1,
+          "end": 18
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "letters-account-2",
+        "ref": {
+          "book": 46,
+          "chapter": 13,
+          "start": 1,
+          "end": 13
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "letters-account-3",
+        "ref": {
+          "book": 59,
+          "chapter": 2,
+          "start": 14,
+          "end": 26
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "letters-account-4",
+        "ref": {
+          "book": 60,
+          "chapter": 1,
+          "start": 3,
+          "end": 9
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "vision",
+    "era": "newcreation",
+    "title": "John’s vision on Patmos",
+    "telugu": "పత్మాసు దర్శనం",
+    "summary": "John introduces his vision and messages to seven churches.",
+    "refs": [
+      {
+        "book": 66,
+        "chapter": 1,
+        "start": 1,
+        "end": 20
+      },
+      {
+        "book": 66,
+        "chapter": 2,
+        "start": 1,
+        "end": 7
+      }
+    ],
+    "lane": "Apocalyptic vision",
+    "chronology": "The visions address named churches; traditions differ on how their scope extends through history.",
+    "order": 64,
+    "chronologyMetadata": {
+      "precision": "visionary",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "vision-account-1",
+        "ref": {
+          "book": 66,
+          "chapter": 1,
+          "start": 1,
+          "end": 20
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "vision-account-2",
+        "ref": {
+          "book": 66,
+          "chapter": 2,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "judgment",
+    "era": "newcreation",
+    "title": "Judgment and the defeat of evil",
+    "telugu": "తీర్పు",
+    "summary": "Revelation depicts the defeat of evil, a millennium, resurrection, and judgment.",
+    "refs": [
+      {
+        "book": 66,
+        "chapter": 20,
+        "start": 1,
+        "end": 15
+      }
+    ],
+    "lane": "Apocalyptic vision",
+    "chronology": "Premillennial, amillennial, and postmillennial readings differ. Literary sequence is not presented as a universally agreed schedule.",
+    "order": 65,
+    "chronologyMetadata": {
+      "precision": "visionary",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "judgment-account-1",
+        "ref": {
+          "book": 66,
+          "chapter": 20,
+          "start": 1,
+          "end": 15
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  },
+  {
+    "id": "new-earth",
+    "era": "newcreation",
+    "title": "A new heaven and a new earth",
+    "telugu": "నూతన ఆకాశం · నూతన భూమి",
+    "summary": "The vision culminates in God dwelling with humanity, the removal of death, and the river and tree of life.",
+    "refs": [
+      {
+        "book": 66,
+        "chapter": 21,
+        "start": 1,
+        "end": 7
+      },
+      {
+        "book": 66,
+        "chapter": 22,
+        "start": 1,
+        "end": 5
+      }
+    ],
+    "lane": "Apocalyptic vision",
+    "chronology": "A vision of consummation; no predicted calendar date is supplied.",
+    "order": 66,
+    "chronologyMetadata": {
+      "precision": "visionary",
+      "modelId": null,
+      "fromYear": null,
+      "toYear": null
+    },
+    "review": {
+      "status": "pending",
+      "reviewer": null,
+      "sourceIds": [
+        "uploaded-kjv",
+        "editorial-overview"
+      ]
+    },
+    "accounts": [
+      {
+        "id": "new-earth-account-1",
+        "ref": {
+          "book": 66,
+          "chapter": 21,
+          "start": 1,
+          "end": 7
+        },
+        "kind": "passage_anchor"
+      },
+      {
+        "id": "new-earth-account-2",
+        "ref": {
+          "book": 66,
+          "chapter": 22,
+          "start": 1,
+          "end": 5
+        },
+        "kind": "passage_anchor"
+      }
+    ]
+  }
+]

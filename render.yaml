@@ -1,0 +1,24 @@
+# Static site only: no paid compute, database, disk, or background worker.
+# Workspace usage and spend settings must be checked in Render before deployment.
+services:
+  - type: web
+    name: bible-project
+    runtime: static
+    repo: https://github.com/benayaram/Bible-Visual
+    branch: main
+    buildCommand: npm ci && npm run build:public
+    staticPublishPath: ./dist-public
+    autoDeploy: false
+    envVars:
+      - key: NODE_VERSION
+        value: 24.19.0
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+sources/*.zip
+test-results/
+*.tsbuildinfo
+__pycache__/
+
+# Uploaded Scripture retained in the local environment pending public permissions.
+public/data/kjv/
+public/data/tel/
+public/data/drc/
+public/pdf/
+dist-public/
+.public-release/

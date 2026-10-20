@@ -1,0 +1,8 @@
+{
+  "editions": [
+    {"id":"kjv","approved":false,"licenseUrl":null,"verifiedBy":null,"verifiedOn":null},
+    {"id":"tel","approved":false,"licenseUrl":null,"verifiedBy":null,"verifiedOn":null},
+    {"id":"drc","approved":false,"licenseUrl":null,"verifiedBy":null,"verifiedOn":null}
+  ],
+  "pdfsApproved": false
+}

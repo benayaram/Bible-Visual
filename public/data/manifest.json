@@ -1,0 +1,1548 @@
+{
+  "source": "User-provided WordProject archives",
+  "editions": [
+    {
+      "id": "kjv",
+      "label": "King James Version",
+      "language": "en",
+      "archive": "kj.zip",
+      "sha256": "7ff00bda597cbbc07c109443b9078c3e71d0daeaa6f95ea8ace20472f288ad41",
+      "sourceUrl": "https://www.wordproject.org/bibles/kj/index.htm",
+      "books": [
+        {
+          "id": 1,
+          "name": "Genesis",
+          "localName": "Genesis",
+          "chapters": 50,
+          "verses": 1533
+        },
+        {
+          "id": 2,
+          "name": "Exodus",
+          "localName": "Exodus",
+          "chapters": 40,
+          "verses": 1213
+        },
+        {
+          "id": 3,
+          "name": "Leviticus",
+          "localName": "Leviticus",
+          "chapters": 27,
+          "verses": 859
+        },
+        {
+          "id": 4,
+          "name": "Numbers",
+          "localName": "Numbers",
+          "chapters": 36,
+          "verses": 1288
+        },
+        {
+          "id": 5,
+          "name": "Deuteronomy",
+          "localName": "Deuteronomy",
+          "chapters": 34,
+          "verses": 959
+        },
+        {
+          "id": 6,
+          "name": "Joshua",
+          "localName": "Joshua",
+          "chapters": 24,
+          "verses": 658
+        },
+        {
+          "id": 7,
+          "name": "Judges",
+          "localName": "Judges",
+          "chapters": 21,
+          "verses": 618
+        },
+        {
+          "id": 8,
+          "name": "Ruth",
+          "localName": "Ruth",
+          "chapters": 4,
+          "verses": 85
+        },
+        {
+          "id": 9,
+          "name": "1 Samuel",
+          "localName": "1 Samuel",
+          "chapters": 31,
+          "verses": 810
+        },
+        {
+          "id": 10,
+          "name": "2 Samuel",
+          "localName": "2 Samuel",
+          "chapters": 24,
+          "verses": 695
+        },
+        {
+          "id": 11,
+          "name": "1 Kings",
+          "localName": "1 Kings",
+          "chapters": 22,
+          "verses": 816
+        },
+        {
+          "id": 12,
+          "name": "2 Kings",
+          "localName": "2 Kings",
+          "chapters": 25,
+          "verses": 719
+        },
+        {
+          "id": 13,
+          "name": "1 Chronicles",
+          "localName": "1 Chronicles",
+          "chapters": 29,
+          "verses": 942
+        },
+        {
+          "id": 14,
+          "name": "2 Chronicles",
+          "localName": "2 Chronicles",
+          "chapters": 36,
+          "verses": 822
+        },
+        {
+          "id": 15,
+          "name": "Ezra",
+          "localName": "Ezra",
+          "chapters": 10,
+          "verses": 280
+        },
+        {
+          "id": 16,
+          "name": "Nehemiah",
+          "localName": "Nehemiah",
+          "chapters": 13,
+          "verses": 406
+        },
+        {
+          "id": 17,
+          "name": "Esther",
+          "localName": "Esther",
+          "chapters": 10,
+          "verses": 167
+        },
+        {
+          "id": 18,
+          "name": "Job",
+          "localName": "Job",
+          "chapters": 42,
+          "verses": 1070
+        },
+        {
+          "id": 19,
+          "name": "Psalms",
+          "localName": "Psalms",
+          "chapters": 150,
+          "verses": 2461
+        },
+        {
+          "id": 20,
+          "name": "Proverbs",
+          "localName": "Proverbs",
+          "chapters": 31,
+          "verses": 915
+        },
+        {
+          "id": 21,
+          "name": "Ecclesiastes",
+          "localName": "Ecclesiastes",
+          "chapters": 12,
+          "verses": 222
+        },
+        {
+          "id": 22,
+          "name": "Song of Solomon",
+          "localName": "Song of Solomon",
+          "chapters": 8,
+          "verses": 117
+        },
+        {
+          "id": 23,
+          "name": "Isaiah",
+          "localName": "Isaiah",
+          "chapters": 66,
+          "verses": 1292
+        },
+        {
+          "id": 24,
+          "name": "Jeremiah",
+          "localName": "Jeremiah",
+          "chapters": 52,
+          "verses": 1364
+        },
+        {
+          "id": 25,
+          "name": "Lamentations",
+          "localName": "Lamentations",
+          "chapters": 5,
+          "verses": 154
+        },
+        {
+          "id": 26,
+          "name": "Ezekiel",
+          "localName": "Ezekiel",
+          "chapters": 48,
+          "verses": 1273
+        },
+        {
+          "id": 27,
+          "name": "Daniel",
+          "localName": "Daniel",
+          "chapters": 12,
+          "verses": 357
+        },
+        {
+          "id": 28,
+          "name": "Hosea",
+          "localName": "Hosea",
+          "chapters": 14,
+          "verses": 197
+        },
+        {
+          "id": 29,
+          "name": "Joel",
+          "localName": "Joel",
+          "chapters": 3,
+          "verses": 73
+        },
+        {
+          "id": 30,
+          "name": "Amos",
+          "localName": "Amos",
+          "chapters": 9,
+          "verses": 146
+        },
+        {
+          "id": 31,
+          "name": "Obadiah",
+          "localName": "Obadiah",
+          "chapters": 1,
+          "verses": 21
+        },
+        {
+          "id": 32,
+          "name": "Jonah",
+          "localName": "Jonah",
+          "chapters": 4,
+          "verses": 48
+        },
+        {
+          "id": 33,
+          "name": "Micah",
+          "localName": "Micah",
+          "chapters": 7,
+          "verses": 105
+        },
+        {
+          "id": 34,
+          "name": "Nahum",
+          "localName": "Nahum",
+          "chapters": 3,
+          "verses": 47
+        },
+        {
+          "id": 35,
+          "name": "Habakkuk",
+          "localName": "Habakkuk",
+          "chapters": 3,
+          "verses": 56
+        },
+        {
+          "id": 36,
+          "name": "Zephaniah",
+          "localName": "Zephaniah",
+          "chapters": 3,
+          "verses": 53
+        },
+        {
+          "id": 37,
+          "name": "Haggai",
+          "localName": "Haggai",
+          "chapters": 2,
+          "verses": 38
+        },
+        {
+          "id": 38,
+          "name": "Zechariah",
+          "localName": "Zechariah",
+          "chapters": 14,
+          "verses": 211
+        },
+        {
+          "id": 39,
+          "name": "Malachi",
+          "localName": "Malachi",
+          "chapters": 4,
+          "verses": 55
+        },
+        {
+          "id": 40,
+          "name": "Matthew",
+          "localName": "Matthew",
+          "chapters": 28,
+          "verses": 1071
+        },
+        {
+          "id": 41,
+          "name": "Mark",
+          "localName": "Mark",
+          "chapters": 16,
+          "verses": 678
+        },
+        {
+          "id": 42,
+          "name": "Luke",
+          "localName": "Luke",
+          "chapters": 24,
+          "verses": 1151
+        },
+        {
+          "id": 43,
+          "name": "John",
+          "localName": "John",
+          "chapters": 21,
+          "verses": 879
+        },
+        {
+          "id": 44,
+          "name": "Acts",
+          "localName": "Acts",
+          "chapters": 28,
+          "verses": 1007
+        },
+        {
+          "id": 45,
+          "name": "Romans",
+          "localName": "Romans",
+          "chapters": 16,
+          "verses": 433
+        },
+        {
+          "id": 46,
+          "name": "1 Corinthians",
+          "localName": "1 Corinthians",
+          "chapters": 16,
+          "verses": 437
+        },
+        {
+          "id": 47,
+          "name": "2 Corinthians",
+          "localName": "2 Corinthians",
+          "chapters": 13,
+          "verses": 257
+        },
+        {
+          "id": 48,
+          "name": "Galatians",
+          "localName": "Galatians",
+          "chapters": 6,
+          "verses": 149
+        },
+        {
+          "id": 49,
+          "name": "Ephesians",
+          "localName": "Ephesians",
+          "chapters": 6,
+          "verses": 155
+        },
+        {
+          "id": 50,
+          "name": "Philippians",
+          "localName": "Philippians",
+          "chapters": 4,
+          "verses": 104
+        },
+        {
+          "id": 51,
+          "name": "Colossians",
+          "localName": "Colossians",
+          "chapters": 4,
+          "verses": 95
+        },
+        {
+          "id": 52,
+          "name": "1 Thessalonians",
+          "localName": "1 Thessalonians",
+          "chapters": 5,
+          "verses": 89
+        },
+        {
+          "id": 53,
+          "name": "2 Thessalonians",
+          "localName": "2 Thessalonians",
+          "chapters": 3,
+          "verses": 47
+        },
+        {
+          "id": 54,
+          "name": "1 Timothy",
+          "localName": "1 Timothy",
+          "chapters": 6,
+          "verses": 113
+        },
+        {
+          "id": 55,
+          "name": "2 Timothy",
+          "localName": "2 Timothy",
+          "chapters": 4,
+          "verses": 83
+        },
+        {
+          "id": 56,
+          "name": "Titus",
+          "localName": "Titus",
+          "chapters": 3,
+          "verses": 46
+        },
+        {
+          "id": 57,
+          "name": "Philemon",
+          "localName": "Philemon",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 58,
+          "name": "Hebrews",
+          "localName": "Hebrews",
+          "chapters": 13,
+          "verses": 303
+        },
+        {
+          "id": 59,
+          "name": "James",
+          "localName": "James",
+          "chapters": 5,
+          "verses": 108
+        },
+        {
+          "id": 60,
+          "name": "1 Peter",
+          "localName": "1 Peter",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 61,
+          "name": "2 Peter",
+          "localName": "2 Peter",
+          "chapters": 3,
+          "verses": 61
+        },
+        {
+          "id": 62,
+          "name": "1 John",
+          "localName": "1 John",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 63,
+          "name": "2 John",
+          "localName": "2 John",
+          "chapters": 1,
+          "verses": 13
+        },
+        {
+          "id": 64,
+          "name": "3 John",
+          "localName": "3 John",
+          "chapters": 1,
+          "verses": 14
+        },
+        {
+          "id": 65,
+          "name": "Jude",
+          "localName": "Jude",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 66,
+          "name": "Revelation",
+          "localName": "Revelation",
+          "chapters": 22,
+          "verses": 404
+        }
+      ],
+      "chapterCount": 1189,
+      "verseCount": 31102,
+      "numberingAnomalies": [],
+      "sourceIssues": []
+    },
+    {
+      "id": "tel",
+      "label": "Telugu · WordProject",
+      "language": "te",
+      "archive": "tel_new.zip",
+      "sha256": "ff1af76f09cf232c9bd310d01f68acfbcc10f2440cb1f3cbbebf8871e35e58ad",
+      "sourceUrl": "https://www.wordproject.org/bibles/tel/index.htm",
+      "books": [
+        {
+          "id": 1,
+          "name": "Genesis",
+          "localName": "ఆదికాండము",
+          "chapters": 50,
+          "verses": 1533
+        },
+        {
+          "id": 2,
+          "name": "Exodus",
+          "localName": "నిర్గమకాండము",
+          "chapters": 40,
+          "verses": 1213
+        },
+        {
+          "id": 3,
+          "name": "Leviticus",
+          "localName": "లేవీయకాండము",
+          "chapters": 27,
+          "verses": 859
+        },
+        {
+          "id": 4,
+          "name": "Numbers",
+          "localName": "సంఖ్యాకాండము",
+          "chapters": 36,
+          "verses": 1288
+        },
+        {
+          "id": 5,
+          "name": "Deuteronomy",
+          "localName": "ద్వితీయోపదేశకాండమ",
+          "chapters": 34,
+          "verses": 959
+        },
+        {
+          "id": 6,
+          "name": "Joshua",
+          "localName": "యెహొషువ",
+          "chapters": 24,
+          "verses": 658
+        },
+        {
+          "id": 7,
+          "name": "Judges",
+          "localName": "న్యాయాధిపతులు",
+          "chapters": 21,
+          "verses": 618
+        },
+        {
+          "id": 8,
+          "name": "Ruth",
+          "localName": "రూతు",
+          "chapters": 4,
+          "verses": 85
+        },
+        {
+          "id": 9,
+          "name": "1 Samuel",
+          "localName": "సమూయేలు మొదటి గ్రంథము",
+          "chapters": 31,
+          "verses": 810
+        },
+        {
+          "id": 10,
+          "name": "2 Samuel",
+          "localName": "సమూయేలు రెండవ గ్రంథము",
+          "chapters": 24,
+          "verses": 695
+        },
+        {
+          "id": 11,
+          "name": "1 Kings",
+          "localName": "రాజులు మొదటి గ్రంథము",
+          "chapters": 22,
+          "verses": 816
+        },
+        {
+          "id": 12,
+          "name": "2 Kings",
+          "localName": "రాజులు రెండవ గ్రంథము",
+          "chapters": 25,
+          "verses": 719
+        },
+        {
+          "id": 13,
+          "name": "1 Chronicles",
+          "localName": "దినవృత్తాంతములు మొదటి గ్రంథము",
+          "chapters": 29,
+          "verses": 942
+        },
+        {
+          "id": 14,
+          "name": "2 Chronicles",
+          "localName": "దినవృత్తాంతములు రెండవ గ్రంథము",
+          "chapters": 36,
+          "verses": 822
+        },
+        {
+          "id": 15,
+          "name": "Ezra",
+          "localName": "ఎజ్రా Ezra",
+          "chapters": 10,
+          "verses": 280
+        },
+        {
+          "id": 16,
+          "name": "Nehemiah",
+          "localName": "నెహెమ్యా",
+          "chapters": 13,
+          "verses": 406
+        },
+        {
+          "id": 17,
+          "name": "Esther",
+          "localName": "ఎస్తేరు",
+          "chapters": 10,
+          "verses": 167
+        },
+        {
+          "id": 18,
+          "name": "Job",
+          "localName": "యోబు గ్రంథము",
+          "chapters": 42,
+          "verses": 1070
+        },
+        {
+          "id": 19,
+          "name": "Psalms",
+          "localName": "కీర్తనల గ్రంథము",
+          "chapters": 150,
+          "verses": 2461
+        },
+        {
+          "id": 20,
+          "name": "Proverbs",
+          "localName": "సామెతలు",
+          "chapters": 31,
+          "verses": 915
+        },
+        {
+          "id": 21,
+          "name": "Ecclesiastes",
+          "localName": "ప్రసంగి",
+          "chapters": 12,
+          "verses": 222
+        },
+        {
+          "id": 22,
+          "name": "Song of Solomon",
+          "localName": "పరమగీతము",
+          "chapters": 8,
+          "verses": 117
+        },
+        {
+          "id": 23,
+          "name": "Isaiah",
+          "localName": "యెషయా గ్రంథము",
+          "chapters": 66,
+          "verses": 1292
+        },
+        {
+          "id": 24,
+          "name": "Jeremiah",
+          "localName": "యిర్మీయా",
+          "chapters": 52,
+          "verses": 1364
+        },
+        {
+          "id": 25,
+          "name": "Lamentations",
+          "localName": "విలాపవాక్యములు",
+          "chapters": 5,
+          "verses": 154
+        },
+        {
+          "id": 26,
+          "name": "Ezekiel",
+          "localName": "యెహెజ్కేలు",
+          "chapters": 48,
+          "verses": 1273
+        },
+        {
+          "id": 27,
+          "name": "Daniel",
+          "localName": "దానియేలు",
+          "chapters": 12,
+          "verses": 357
+        },
+        {
+          "id": 28,
+          "name": "Hosea",
+          "localName": "హొషేయ",
+          "chapters": 14,
+          "verses": 197
+        },
+        {
+          "id": 29,
+          "name": "Joel",
+          "localName": "యోవేలు",
+          "chapters": 3,
+          "verses": 73
+        },
+        {
+          "id": 30,
+          "name": "Amos",
+          "localName": "ఆమోసు",
+          "chapters": 9,
+          "verses": 146
+        },
+        {
+          "id": 31,
+          "name": "Obadiah",
+          "localName": "ఓబద్యా",
+          "chapters": 1,
+          "verses": 21
+        },
+        {
+          "id": 32,
+          "name": "Jonah",
+          "localName": "యోనా",
+          "chapters": 4,
+          "verses": 48
+        },
+        {
+          "id": 33,
+          "name": "Micah",
+          "localName": "మీకా",
+          "chapters": 7,
+          "verses": 105
+        },
+        {
+          "id": 34,
+          "name": "Nahum",
+          "localName": "నహూము",
+          "chapters": 3,
+          "verses": 47
+        },
+        {
+          "id": 35,
+          "name": "Habakkuk",
+          "localName": "హబక్కూకు",
+          "chapters": 3,
+          "verses": 56
+        },
+        {
+          "id": 36,
+          "name": "Zephaniah",
+          "localName": "జెఫన్యా",
+          "chapters": 3,
+          "verses": 53
+        },
+        {
+          "id": 37,
+          "name": "Haggai",
+          "localName": "హగ్గయి",
+          "chapters": 2,
+          "verses": 38
+        },
+        {
+          "id": 38,
+          "name": "Zechariah",
+          "localName": "జెకర్యా",
+          "chapters": 14,
+          "verses": 211
+        },
+        {
+          "id": 39,
+          "name": "Malachi",
+          "localName": "మలాకీ",
+          "chapters": 4,
+          "verses": 55
+        },
+        {
+          "id": 40,
+          "name": "Matthew",
+          "localName": "మత్తయి సువార్త",
+          "chapters": 28,
+          "verses": 1071
+        },
+        {
+          "id": 41,
+          "name": "Mark",
+          "localName": "మార్కు సువార్త /",
+          "chapters": 16,
+          "verses": 678
+        },
+        {
+          "id": 42,
+          "name": "Luke",
+          "localName": "లూకా సువార్త",
+          "chapters": 24,
+          "verses": 1151
+        },
+        {
+          "id": 43,
+          "name": "John",
+          "localName": "యోహాను సువార్త",
+          "chapters": 21,
+          "verses": 879
+        },
+        {
+          "id": 44,
+          "name": "Acts",
+          "localName": "అపొస్తలుల కార్యములు",
+          "chapters": 28,
+          "verses": 1007
+        },
+        {
+          "id": 45,
+          "name": "Romans",
+          "localName": "రోమీయులకు",
+          "chapters": 16,
+          "verses": 433
+        },
+        {
+          "id": 46,
+          "name": "1 Corinthians",
+          "localName": "1 కొరింథీయులకు",
+          "chapters": 16,
+          "verses": 437
+        },
+        {
+          "id": 47,
+          "name": "2 Corinthians",
+          "localName": "2 కొరింథీయులకు",
+          "chapters": 13,
+          "verses": 257
+        },
+        {
+          "id": 48,
+          "name": "Galatians",
+          "localName": "గలతీయులకు",
+          "chapters": 6,
+          "verses": 149
+        },
+        {
+          "id": 49,
+          "name": "Ephesians",
+          "localName": "ఎఫెసీయులకు",
+          "chapters": 6,
+          "verses": 155
+        },
+        {
+          "id": 50,
+          "name": "Philippians",
+          "localName": "ఫిలిప్పీయులకు",
+          "chapters": 4,
+          "verses": 104
+        },
+        {
+          "id": 51,
+          "name": "Colossians",
+          "localName": "కొలొస్సయులకు",
+          "chapters": 4,
+          "verses": 95
+        },
+        {
+          "id": 52,
+          "name": "1 Thessalonians",
+          "localName": "1 థెస్సలొనీకయులకు",
+          "chapters": 5,
+          "verses": 89
+        },
+        {
+          "id": 53,
+          "name": "2 Thessalonians",
+          "localName": "2 థెస్సలొనీకయులకు",
+          "chapters": 3,
+          "verses": 47
+        },
+        {
+          "id": 54,
+          "name": "1 Timothy",
+          "localName": "1 తిమోతికి",
+          "chapters": 6,
+          "verses": 113
+        },
+        {
+          "id": 55,
+          "name": "2 Timothy",
+          "localName": "2 తిమోతికి",
+          "chapters": 4,
+          "verses": 83
+        },
+        {
+          "id": 56,
+          "name": "Titus",
+          "localName": "తీతుకు",
+          "chapters": 3,
+          "verses": 46
+        },
+        {
+          "id": 57,
+          "name": "Philemon",
+          "localName": "ఫిలేమోనుకు",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 58,
+          "name": "Hebrews",
+          "localName": "హెబ్రీయులకు",
+          "chapters": 13,
+          "verses": 303
+        },
+        {
+          "id": 59,
+          "name": "James",
+          "localName": "యాకోబు",
+          "chapters": 5,
+          "verses": 108
+        },
+        {
+          "id": 60,
+          "name": "1 Peter",
+          "localName": "1 పేతురు",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 61,
+          "name": "2 Peter",
+          "localName": "2 పేతురు",
+          "chapters": 3,
+          "verses": 61
+        },
+        {
+          "id": 62,
+          "name": "1 John",
+          "localName": "1 యోహాను",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 63,
+          "name": "2 John",
+          "localName": "2 యోహాను",
+          "chapters": 1,
+          "verses": 13
+        },
+        {
+          "id": 64,
+          "name": "3 John",
+          "localName": "3 యోహాను",
+          "chapters": 1,
+          "verses": 14
+        },
+        {
+          "id": 65,
+          "name": "Jude",
+          "localName": "యూదా",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 66,
+          "name": "Revelation",
+          "localName": "ప్రకటన గ్రంథము",
+          "chapters": 22,
+          "verses": 404
+        }
+      ],
+      "chapterCount": 1189,
+      "verseCount": 31102,
+      "numberingAnomalies": [],
+      "sourceIssues": [
+        {
+          "book": 14,
+          "chapter": 35,
+          "verse": 27,
+          "note": "This verse marker has no text in the supplied archive."
+        },
+        {
+          "book": 30,
+          "chapter": 7,
+          "verse": 1,
+          "note": "The source contains an extra unnumbered marker and mixed Hindi/Telugu text. Preserved as supplied; needs editorial review."
+        }
+      ]
+    },
+    {
+      "id": "drc",
+      "label": "Douay–Rheims · supplied selection",
+      "language": "en",
+      "archive": "drc_new.zip",
+      "sha256": "bc291a1072df7b24795d6de2478ffa9fd4a352475113c19a7aa94fc6ea83062a",
+      "sourceUrl": "https://www.wordproject.org/bibles/drc/index.htm",
+      "books": [
+        {
+          "id": 1,
+          "name": "Genesis",
+          "localName": "Genesis",
+          "chapters": 50,
+          "verses": 1533
+        },
+        {
+          "id": 2,
+          "name": "Exodus",
+          "localName": "Exodus",
+          "chapters": 40,
+          "verses": 1213
+        },
+        {
+          "id": 3,
+          "name": "Leviticus",
+          "localName": "Leviticus",
+          "chapters": 27,
+          "verses": 859
+        },
+        {
+          "id": 4,
+          "name": "Numbers",
+          "localName": "Numbers",
+          "chapters": 36,
+          "verses": 1288
+        },
+        {
+          "id": 5,
+          "name": "Deuteronomy",
+          "localName": "Deuteronomy",
+          "chapters": 34,
+          "verses": 959
+        },
+        {
+          "id": 6,
+          "name": "Joshua",
+          "localName": "Joshua",
+          "chapters": 24,
+          "verses": 658
+        },
+        {
+          "id": 7,
+          "name": "Judges",
+          "localName": "Judges",
+          "chapters": 21,
+          "verses": 618
+        },
+        {
+          "id": 8,
+          "name": "Ruth",
+          "localName": "Ruth",
+          "chapters": 4,
+          "verses": 85
+        },
+        {
+          "id": 9,
+          "name": "1 Samuel",
+          "localName": "1 Samuel",
+          "chapters": 31,
+          "verses": 810
+        },
+        {
+          "id": 10,
+          "name": "2 Samuel",
+          "localName": "2 Samuel",
+          "chapters": 24,
+          "verses": 695
+        },
+        {
+          "id": 11,
+          "name": "1 Kings",
+          "localName": "1 Kings",
+          "chapters": 22,
+          "verses": 816
+        },
+        {
+          "id": 12,
+          "name": "2 Kings",
+          "localName": "2 Kings",
+          "chapters": 25,
+          "verses": 719
+        },
+        {
+          "id": 13,
+          "name": "1 Chronicles",
+          "localName": "1 Chronicles",
+          "chapters": 29,
+          "verses": 942
+        },
+        {
+          "id": 14,
+          "name": "2 Chronicles",
+          "localName": "2 Chronicles",
+          "chapters": 36,
+          "verses": 822
+        },
+        {
+          "id": 15,
+          "name": "Ezra",
+          "localName": "Ezra",
+          "chapters": 10,
+          "verses": 280
+        },
+        {
+          "id": 16,
+          "name": "Nehemiah",
+          "localName": "Nehemiah",
+          "chapters": 13,
+          "verses": 406
+        },
+        {
+          "id": 17,
+          "name": "Esther",
+          "localName": "Esther",
+          "chapters": 10,
+          "verses": 167
+        },
+        {
+          "id": 18,
+          "name": "Job",
+          "localName": "Job",
+          "chapters": 42,
+          "verses": 1070
+        },
+        {
+          "id": 19,
+          "name": "Psalms",
+          "localName": "Psalms",
+          "chapters": 150,
+          "verses": 2461
+        },
+        {
+          "id": 20,
+          "name": "Proverbs",
+          "localName": "Proverbs",
+          "chapters": 31,
+          "verses": 915
+        },
+        {
+          "id": 21,
+          "name": "Ecclesiastes",
+          "localName": "Ecclesiastes",
+          "chapters": 12,
+          "verses": 222
+        },
+        {
+          "id": 22,
+          "name": "Song of Solomon",
+          "localName": "Song of Songs",
+          "chapters": 8,
+          "verses": 117
+        },
+        {
+          "id": 23,
+          "name": "Isaiah",
+          "localName": "Isaiah",
+          "chapters": 66,
+          "verses": 1292
+        },
+        {
+          "id": 24,
+          "name": "Jeremiah",
+          "localName": "Jeremiah",
+          "chapters": 52,
+          "verses": 1364
+        },
+        {
+          "id": 25,
+          "name": "Lamentations",
+          "localName": "Lamentations",
+          "chapters": 5,
+          "verses": 154
+        },
+        {
+          "id": 26,
+          "name": "Ezekiel",
+          "localName": "Ezekiel",
+          "chapters": 48,
+          "verses": 1273
+        },
+        {
+          "id": 27,
+          "name": "Daniel",
+          "localName": "Daniel",
+          "chapters": 12,
+          "verses": 357
+        },
+        {
+          "id": 28,
+          "name": "Hosea",
+          "localName": "Hosea",
+          "chapters": 14,
+          "verses": 197
+        },
+        {
+          "id": 29,
+          "name": "Joel",
+          "localName": "Joel",
+          "chapters": 3,
+          "verses": 73
+        },
+        {
+          "id": 30,
+          "name": "Amos",
+          "localName": "Amos",
+          "chapters": 9,
+          "verses": 146
+        },
+        {
+          "id": 31,
+          "name": "Obadiah",
+          "localName": "Obadiah",
+          "chapters": 1,
+          "verses": 21
+        },
+        {
+          "id": 32,
+          "name": "Jonah",
+          "localName": "Jonah",
+          "chapters": 4,
+          "verses": 48
+        },
+        {
+          "id": 33,
+          "name": "Micah",
+          "localName": "Micah",
+          "chapters": 7,
+          "verses": 105
+        },
+        {
+          "id": 34,
+          "name": "Nahum",
+          "localName": "Naum",
+          "chapters": 3,
+          "verses": 47
+        },
+        {
+          "id": 35,
+          "name": "Habakkuk",
+          "localName": "Habakkuk",
+          "chapters": 3,
+          "verses": 56
+        },
+        {
+          "id": 36,
+          "name": "Zephaniah",
+          "localName": "Zephaniah",
+          "chapters": 3,
+          "verses": 53
+        },
+        {
+          "id": 37,
+          "name": "Haggai",
+          "localName": "Haggai",
+          "chapters": 2,
+          "verses": 38
+        },
+        {
+          "id": 38,
+          "name": "Zechariah",
+          "localName": "Zechariah",
+          "chapters": 14,
+          "verses": 211
+        },
+        {
+          "id": 39,
+          "name": "Malachi",
+          "localName": "Malachi",
+          "chapters": 4,
+          "verses": 55
+        },
+        {
+          "id": 40,
+          "name": "Matthew",
+          "localName": "Matthew",
+          "chapters": 28,
+          "verses": 1071
+        },
+        {
+          "id": 41,
+          "name": "Mark",
+          "localName": "Mark",
+          "chapters": 16,
+          "verses": 678
+        },
+        {
+          "id": 42,
+          "name": "Luke",
+          "localName": "Luke",
+          "chapters": 24,
+          "verses": 1151
+        },
+        {
+          "id": 43,
+          "name": "John",
+          "localName": "John",
+          "chapters": 21,
+          "verses": 879
+        },
+        {
+          "id": 44,
+          "name": "Acts",
+          "localName": "Acts",
+          "chapters": 28,
+          "verses": 962
+        },
+        {
+          "id": 45,
+          "name": "Romans",
+          "localName": "Romans",
+          "chapters": 16,
+          "verses": 433
+        },
+        {
+          "id": 46,
+          "name": "1 Corinthians",
+          "localName": "1 Corinthians",
+          "chapters": 16,
+          "verses": 437
+        },
+        {
+          "id": 47,
+          "name": "2 Corinthians",
+          "localName": "2 Corinthians",
+          "chapters": 13,
+          "verses": 257
+        },
+        {
+          "id": 48,
+          "name": "Galatians",
+          "localName": "Galatians",
+          "chapters": 6,
+          "verses": 149
+        },
+        {
+          "id": 49,
+          "name": "Ephesians",
+          "localName": "Ephesians",
+          "chapters": 6,
+          "verses": 155
+        },
+        {
+          "id": 50,
+          "name": "Philippians",
+          "localName": "Philippians",
+          "chapters": 4,
+          "verses": 104
+        },
+        {
+          "id": 51,
+          "name": "Colossians",
+          "localName": "Colossians",
+          "chapters": 4,
+          "verses": 95
+        },
+        {
+          "id": 52,
+          "name": "1 Thessalonians",
+          "localName": "1 Thessalonians",
+          "chapters": 5,
+          "verses": 89
+        },
+        {
+          "id": 53,
+          "name": "2 Thessalonians",
+          "localName": "2 Thessalonians",
+          "chapters": 3,
+          "verses": 53
+        },
+        {
+          "id": 54,
+          "name": "1 Timothy",
+          "localName": "1 Timothy",
+          "chapters": 6,
+          "verses": 113
+        },
+        {
+          "id": 55,
+          "name": "2 Timothy",
+          "localName": "2 Timothy",
+          "chapters": 4,
+          "verses": 83
+        },
+        {
+          "id": 56,
+          "name": "Titus",
+          "localName": "##",
+          "chapters": 3,
+          "verses": 46
+        },
+        {
+          "id": 57,
+          "name": "Philemon",
+          "localName": "Titus",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 58,
+          "name": "Hebrews",
+          "localName": "Philemon",
+          "chapters": 13,
+          "verses": 303
+        },
+        {
+          "id": 59,
+          "name": "James",
+          "localName": "James",
+          "chapters": 5,
+          "verses": 108
+        },
+        {
+          "id": 60,
+          "name": "1 Peter",
+          "localName": "1 Peter",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 61,
+          "name": "2 Peter",
+          "localName": "2 Peter",
+          "chapters": 3,
+          "verses": 61
+        },
+        {
+          "id": 62,
+          "name": "1 John",
+          "localName": "1 John",
+          "chapters": 5,
+          "verses": 105
+        },
+        {
+          "id": 63,
+          "name": "2 John",
+          "localName": "2 John",
+          "chapters": 1,
+          "verses": 13
+        },
+        {
+          "id": 64,
+          "name": "3 John",
+          "localName": "3 John",
+          "chapters": 1,
+          "verses": 14
+        },
+        {
+          "id": 65,
+          "name": "Jude",
+          "localName": "Jude",
+          "chapters": 1,
+          "verses": 25
+        },
+        {
+          "id": 66,
+          "name": "Revelation",
+          "localName": "Revelation",
+          "chapters": 22,
+          "verses": 404
+        }
+      ],
+      "chapterCount": 1189,
+      "verseCount": 31063,
+      "numberingAnomalies": [
+        {
+          "book": 42,
+          "chapter": 1,
+          "verseNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            59,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ]
+        }
+      ],
+      "sourceIssues": [
+        {
+          "book": 42,
+          "chapter": 1,
+          "verse": 59,
+          "note": "Duplicate verse number in the supplied archive; preserved without renumbering."
+        },
+        {
+          "book": 42,
+          "chapter": 1,
+          "verse": 59,
+          "note": "Duplicate verse number in the supplied archive; preserved without renumbering."
+        }
+      ]
+    }
+  ],
+  "pdfs": 66,
+  "pdfArchiveSha256": "a335c0a3dcacbddde6def3dc44ba9a298f2b1c2ed3f304f6d1632357f5661a59"
+}

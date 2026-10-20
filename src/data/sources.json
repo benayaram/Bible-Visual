@@ -1,0 +1,18 @@
+[
+  {
+    "id": "uploaded-kjv",
+    "title": "User-supplied WordProject KJV archive",
+    "kind": "scripture_source",
+    "url": "https://www.wordproject.org/bibles/kj/index.htm",
+    "artifact": "kj.zip",
+    "licenseStatus": "not_independently_verified"
+  },
+  {
+    "id": "editorial-overview",
+    "title": "BIBLE PROJECT curated event and relationship annotations",
+    "kind": "editorial_annotation",
+    "url": null,
+    "artifact": "docs/RESEARCH.md",
+    "licenseStatus": "project_authored"
+  }
+]
